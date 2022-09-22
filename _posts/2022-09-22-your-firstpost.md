@@ -1,7 +1,10 @@
 ---
-published: false
+published: true
 ---
-## A New Post
+---
+layout: post
+title: A new Post
+---
 
 Cheers to new beginnings
 
