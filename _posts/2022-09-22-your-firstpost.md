@@ -3,5 +3,6 @@ published: false
 ---
 ## A New Post
 
-![beginnings.PNG]({{site.baseurl}}/_posts/beginnings.PNG)
+Cheers to new beginnings
 
+![beginnings.PNG]({{site.baseurl}}/_posts/beginnings.PNG)
