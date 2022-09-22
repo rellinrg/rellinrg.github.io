@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 published: true
 ---
-([2020-09-22](https://rellinrg.github.io/A-new-post/))
+2022-09-22 - [First Pose](https://rellinrg.github.io/A-new-post/)
