@@ -2,12 +2,22 @@
 layout: post
 title: Testing my script to create post
 ---
-Published on
-23 Sep 2022 15:36:21
+_Published on
+23 Sep 2022 15:47:21
 <br>
 <br>
 Been busy today creating this automated script to post a blog hosted by github.
 <br>
 Testing Next Line how it looks
+<br>
+Testing bulleted list
+<br>
+*1
+<br>
+*2
+<br>
+>Blockquote
+<br>
+>>Nested Blockquote
 
 
