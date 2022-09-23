@@ -7,3 +7,4 @@ published: true
 2022-09-22 - [First Post](https://rellinrg.github.io/A-new-post/)
 
 2022-09-24 -[Blog Post 2](https://rellinrg.github.io/Blog_Post2)
+2022-09-24 -[Blog Post 2](https://rellinrg.github.io/Blog_Post2/)
