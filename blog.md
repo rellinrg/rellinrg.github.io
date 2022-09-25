@@ -8,19 +8,5 @@ published: true
 <br>
 2022-09-23 - [Testing Script](https://rellinrg.github.io/Blog_Post2/)
 <br>
-2022-09-25 -[Owwa Renewal](https://rellinrg.github.io/Blog_Post3/)
-<br>
-2022-09-25 -[Testing Title Blog](https://rellinrg.github.io/Blog_Post3/)
-<br>
-2022-09-25 -[Testing Title Blog](https://rellinrg.github.io/Blog_Post3/)
-<br>
-2022-09-25 -[Testing Title Blog](https://rellinrg.github.io/Blog_Post3/)
-<br>
-2022-09-25 -[Testing Title Blog](https://rellinrg.github.io/Blog_Post4/)
-<br>
-2022-09-25 -[Testing Title Blog](https://rellinrg.github.io/Blog_Post4/)
-<br>
-2022-09-25 -[Testing Title Blog5](https://rellinrg.github.io/Blog_Post5/)
-<br>
 2022-09-25 -[Owwa Renewal Appointment](https://rellinrg.github.io/Blog_Post3/)
 <br>
