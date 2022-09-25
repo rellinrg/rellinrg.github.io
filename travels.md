@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Travels
+permalink: /travels/
 published: true
 ---
-![aboutme]({{ site.baseurl }}/images/about.png "aboutme")
+
+2022
+
