@@ -25,17 +25,17 @@ January 1 - December 31 --- Singapore
 <br>
 **2020**
 <br>
-January 29 - December 31 --- Singapore
-<br>
-January 28 - 29 --- Malaysia
-<br>
-January 25 - 27 --- Hatyai, Thailand
-<br>
-January 24 - 25 --- Malaysia
+January 1 --- Cebu, Philippines
 <br>
 January 2 - 24 --- Singapore
 <br>
-January 1 --- Cebu, Philippines
+January 24 - 25 --- Malaysia
+<br>
+January 25 - 27 --- Hatyai, Thailand
+<br>
+January 28 - 29 --- Malaysia
+<br>
+January 29 - December 31 --- Singapore
 <br>
 <br>
 **2019**
@@ -78,4 +78,3 @@ January 1 - February 3 --- Singapore
 <br>
 <br>
 **2018**
-
