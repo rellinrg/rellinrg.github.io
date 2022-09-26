@@ -32,3 +32,9 @@ January 28 - 29 --- Malaysia
 January 25 - 27 --- Thailand
 <br>
 January 24 - 25 --- Malaysia
+<br>
+January 2 - 24 --- Singapore
+January 1 --- Cebu, Philippines
+<br>
+<br>
+**2019**
