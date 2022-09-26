@@ -520,3 +520,5 @@ December 25 - 31 --- Cebu, Philippines
 <br>
 **2008**
 <br>
+August 12 - December 31 --- Singapore
+
