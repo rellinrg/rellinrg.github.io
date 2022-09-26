@@ -7,15 +7,15 @@ published: true
 
 **2022**
 <br>
-August 28 - ATM --- Singapore
-<br>
-August 28 - 28 --- Malaysia
-<br>
-August 14 - 28 --- Singapore
+January 1 - August 14 --- Singapore
 <br>
 August 14 --- Malaysia
 <br>
-January 1 - August 14 --- Singapore
+August 14 - 28 --- Singapore
+<br>
+August 28 --- Malaysia
+<br>
+August 28 - ATM ------- Singapore
 <br>
 <br>
 **2021**
@@ -75,6 +75,7 @@ February 7 - March 14 --- Singapore
 February 4 - 7 --- Cebu, Philippines
 <br>
 January 1 - February 3 --- Singapore
-
-
+<br>
+<br>
+**2018**
 
