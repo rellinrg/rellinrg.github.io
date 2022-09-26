@@ -85,7 +85,7 @@ December 25 - 31 --- Cebu, Philippines
 <br>
 January 1 --- North Yorkshire, United Kingdom
 <br>
-January 1 --- Abu Dhabi Airport *connecting flight*
+January 1 --- Abu Dhabi Airport UAE *connecting flight*
 <br>
 January 1 - 19 --- Singapore
 <br>
@@ -93,7 +93,7 @@ January 20 - 22 --- Cebu, Philippines
 <br>
 January 23 - March 29 --- Singapore
 <br>
-March 29 - 30 --- Abu Dhabi Airport *connecting flight*
+March 29 - 30 --- Abu Dhabi Airport UAE *connecting flight*
 <br>
 March 30 --- Manchester Airport
 <br>
@@ -133,27 +133,73 @@ December 16 --- Johor Bahru, Malaysia
 <br>
 December 16 - 20 --- Singapore
 <br>
-December 20 - 21 --- Abu Dhabi Airport *connecting flight*
+December 20 - 21 --- Abu Dhabi Airport UAE *connecting flight*
 <br>
 December 21 --- Manchester Airport
 <br>
 December 21 - 29 --- North Yorkshire, United Kingdom
 <br>
 December 29 - 31 --- Singapore
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
-**2018**
+<br>
+**2017**
+<br>
+January 1 - 3 --- North Yorkshire, United Kingdom
+<br>
+January 3 --- Manchester Airport
+<br>
+January 3 --- Abu Dhabi Airport, UAE *connecting flight*
+<br>
+January 4 --- Bombay Airport, India *connecting flight*
+<br>
+January 4 - 28 --- Singapore
+<br>
+January 28 - February 5 --- Cebu, Philippines
+<br>
+February 5 - April 1 --- Singapore
+<br>
+April 1 -3 --- Cebu, Philippines
+<br>
+April 3 - 14 --- Singapore
+<br>
+April 14 - 17 --- Phuket, Thailand
+<br>
+April 17 - 29 --- Singapore
+<br>
+April 29 - May 3 --- Cebu, Philippines
+<br>
+May 3 - July 1 --- Singapore
+<br>
+July 1 --- Johor Bahru, Malaysia
+<br>
+July 1 - 15 --- Singapore
+<br>
+July 15 - 17 --- Cebu, Philippines
+<br>
+July 17 - October 17 --- Singapore
+<br>
+October 17 - 22 --- Phuket, Thailand
+<br>
+October 22 - December 20 --- Singapore
+<br>
+December 20 - 21 --- Abu Dhabi UAE Airport *connecting flight*
+<br>
+December 21 --- Manchester Airport
+<br>
+December 21 - 31 --- North Yorkshire, United Kingdom
+<br>
+<br>
+**2016**
+
+
+
+
+
+
+
+
+
+
+
+
+
