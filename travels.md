@@ -34,6 +34,7 @@ January 25 - 27 --- Thailand
 January 24 - 25 --- Malaysia
 <br>
 January 2 - 24 --- Singapore
+<br>
 January 1 --- Cebu, Philippines
 <br>
 <br>
