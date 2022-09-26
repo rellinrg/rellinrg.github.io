@@ -190,11 +190,80 @@ December 21 - 31 --- North Yorkshire, United Kingdom
 <br>
 <br>
 **2016**
-
-
-
-
-
+<br>
+January 1 - February 6 --- Singapore
+<br>
+February 6 --- Johor Bahru, Malaysia
+<br>
+February 6 - 9 --- Singapore
+<br>
+February 9 - 13 --- Cebu, Philippines
+<br>
+February 13 - March 25 --- Singapore
+<br>
+March 25 - 27 --- Batam, Indonesia
+<br>
+March 27 - April 16 --- Singapore
+<br>
+April 16 --- Johor Bahru, Malaysia
+<br>
+April 16 - 21 --- Singapore
+<br>
+April 21 - 25 --- Bali, Indonesia
+<br>
+April 25 - May 27 --- Singapore
+<br>
+May 27 - 28 --- Doha Airport QATAR *connecting flight*
+<br>
+May 28 --- Heathrow London Airport
+<br>
+May 28 - 29 --- Edgeware, London United Kingdom
+<br>
+May 30 - 31 --- Edinburgh, Scotland
+<br>
+May 31 - June 1 ---- Glasgow, Scotland
+<br>
+June 2 --- London
+<br>
+June 2 - 3 --- Gloucester Stroud, United Kingdon
+<br>
+June 3 - 4 --- London
+<br>
+June 4 --- Heathrow London Airport
+<br>
+June 5 --- Doha Airport QATAR *connecting flight*
+<br>
+June 5 - 25 --- Singapore
+<br>
+June 25 --- Johor Bahru, Malaysia
+<br>
+June 25 - July 16 --- Singapore
+<br>
+July 16 --- Johor Bahru, Malaysia
+<br>
+July 16 - August 6 --- Singapore
+<br>
+August 6 - 11 --- Cebu, Philippines
+<br>
+August 11 - September 11 --- Singapore
+<br>
+September 11 - 12 --- Johor Bahru, Malaysia
+<br>
+September 11 - October 14 --- Singapore
+<br>
+October 14 - 15 --- Johor Bahru, Malaysia
+<br>
+October 15 - December 23 --- Singapore
+<br>
+December 23 --- Abu Dhabi UAE Airport *connecting flight*
+<br>
+December 24 --- Manchester Airport
+<br>
+December 24 - 31 --- North Yorkshire, United Kingdom
+<br>
+<br>
+**2015**
+<br>
 
 
 
