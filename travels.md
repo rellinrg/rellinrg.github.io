@@ -215,7 +215,7 @@ April 25 - May 27 --- Singapore
 <br>
 May 27 - 28 --- Doha Airport QATAR *connecting flight*
 <br>
-May 28 --- Heathrow London Airport
+May 28 --- Heathrow Airport LONDON
 <br>
 May 28 - 29 --- Edgeware, London United Kingdom
 <br>
@@ -264,9 +264,41 @@ December 24 - 31 --- North Yorkshire, United Kingdom
 <br>
 **2015**
 <br>
-
-
-
+January 1 - June 5 --- Cebu, Philippines
+<br>
+June 6 - 8 --- Singapore
+<br>
+June 9 - 21 --- Cebu, Philippines
+<br>
+June 21 - July 5 --- Singapore
+<br>
+July 12 --- Johor Bahru, Malaysia
+<br>
+July 12 - October 3 --- Singapore
+<br>
+October 3 - 4 --- Bintan, Indonesia
+<br>
+October 4 - 17 --- Singapore
+<br>
+October 17 --- Johor Bahru, Malaysia
+<br>
+October 17 - November 7 --- Singapore
+<br>
+November 7 - 9 --- Bali, Indonesia
+<br>
+November 9 - December 5 --- Singapore
+<br>
+December 5 --- Johor Bahru, Malaysia
+<br>
+December 5 - 20 --- Singapore
+<br>
+December 20 --- Munich Airport GERMANY *connecting flight*
+<br>
+December 20 - 30 --- North Yorkshire, United Kingdom
+<br>
+December 31 --- Heathrow Airport LONDON
+<br>
+December 31 --- Singapore
 
 
 
