@@ -13,7 +13,7 @@ August 28 - 28 --- Malaysia
 <br>
 August 14 - 28 --- Singapore
 <br>
-August 14 - 14 --- Malaysia
+August 14 --- Malaysia
 <br>
 January 1 - August 14 --- Singapore
 <br>
