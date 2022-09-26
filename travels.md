@@ -29,7 +29,7 @@ January 29 - December 31 --- Singapore
 <br>
 January 28 - 29 --- Malaysia
 <br>
-January 25 - 27 --- Thailand
+January 25 - 27 --- Hatyai, Thailand
 <br>
 January 24 - 25 --- Malaysia
 <br>
