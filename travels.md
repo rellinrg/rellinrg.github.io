@@ -52,7 +52,7 @@ March 17 - April 4 --- Singapore
 <br>
 April 4 - 7 --- Phuket, Thailand
 <br>
-April 7 - 18 - Singapore
+April 7 - 18 --- Singapore
 <br>
 April 18 - 22 --- Penang, Malaysia
 <br>
@@ -103,7 +103,7 @@ April 7 - 14 --- Singapore
 <br>
 April 14 --- Johor Bahru, Malaysia
 <br>
-April 14 - 29 - Singapore
+April 14 - 29 --- Singapore
 <br>
 April 29 --- Batam, Indonesia
 <br>
@@ -368,7 +368,7 @@ September 20 - 22 --- Cebu, Philippines
 <br>
 September 22 - November 7 --- Singapore
 <br>
-November 7 - 10 - Phuket, Thailand
+November 7 - 10 --- Phuket, Thailand
 <br>
 November 10 - December 1 --- Singapore
 <br>
@@ -389,7 +389,7 @@ January 7 - 11 --- Cebu, Philippines
 <br>
 January 11 - 20 --- Singapore
 <br>
-January 20 - 23 - Phuket, Thailand
+January 20 - 23 --- Phuket, Thailand
 <br>
 January 23 - February 11 --- Singapore
 <br>
