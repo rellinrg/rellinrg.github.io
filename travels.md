@@ -493,3 +493,30 @@ November 10 - December 31 --- Singapore
 <br>
 <br>
 **2009**
+January 1 - March 7 --- Singapore
+<br>
+March 7 - 11 --- Cebu, Philippines
+<br>
+March 11 - July 11 --- Singapore
+<br>
+July 11 - 13 --- Cebu, Philippines
+<br>
+July 13 - September 13 --- Singapore
+<br>
+September 13 --- Johor Bahru, Malaysia
+<br>
+September 13 - October 2 --- Singapore
+<br>
+October 2 - 5 --- Hongkong
+<br>
+October 5 - November 14 --- Singapore
+<br>
+November 14 - 16 --- Bangkok,Thailand
+<br>
+November 16 - December 25 --- Singapore
+<br>
+December 25 - 31 --- Cebu, Philippines
+<br>
+<br>
+**2008**
+<br>
