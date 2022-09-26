@@ -463,3 +463,33 @@ November 30 - December 31 --- Singapore
 <br>
 **2010**
 <br>
+January 1 - 8 --- Cebu, Philippines
+<br>
+January 8 - February 13 --- Singapore
+<br>
+February 13 - 14 --- Bintan, Indonesia
+<br>
+February 14 - March 12 --- Singapore
+<br>
+March 12 - 14 --- Hongkong
+<br>
+March 14 - April 1 --- Singapore
+<br>
+April 1 - 4 --- Cebu, Philippines
+<br>
+April 4 - July 31 --- Singapore
+<br>
+July 31 - August 9 --- Cebu, Philippines
+<br>
+August 9 - September 3 --- Singapore
+<br>
+September 3 - 5 --- Phuket, Thailand
+<br>
+September 5 - October 28 --- Singapore
+<br>
+October 28 - November 10 --- Cebu, Philippines
+<br>
+November 10 - December 31 --- Singapore
+<br>
+<br>
+**2009**
