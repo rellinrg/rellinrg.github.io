@@ -21,4 +21,14 @@ January 1 - August 14 --- Singapore
 **2021**
 <br>
 January 1 - December 31 --- Singapore
-
+<br>
+<br>
+**2020**
+<br>
+January 29 - December 31 --- Singapore
+<br>
+January 28 - 29 --- Malaysia
+<br>
+January 25 - 27 --- Thailand
+<br>
+January 24 - 25 --- Malaysia
