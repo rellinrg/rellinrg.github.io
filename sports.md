@@ -8,7 +8,7 @@ published: true
  🎾🥎   **[BEACH TENNIS](https://rellinrg.github.io/beach-tennis/)**
  <br>
  <br>
-🏌🏻⛳🚩**[GOLF](https://rellinrg.github.io/A-new-post/)**
+🏌🏻⛳🚩**[GOLF](https://rellinrg.github.io/golf/)**
  <br>
  <br>
-   🚴   **[CYCLING](https://rellinrg.github.io/A-new-post/)**
+   🚴   **[CYCLING](https://rellinrg.github.io/cycling/)**
