@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sports \U0001F94E\U0001F3CC\U0001F3FB\U0001F3BE"
-permalink: /blog/
+permalink: /sports/
 published: true
 ---
 
