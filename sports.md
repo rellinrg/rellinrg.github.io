@@ -5,8 +5,10 @@ permalink: /sports/
 published: true
 ---
 
- 🎾🥎  [BEACH TENNIS](https://rellinrg.github.io/A-new-post/)
+ 🎾🥎    [BEACH TENNIS](https://rellinrg.github.io/A-new-post/)
+ <br>
  <br>
 🏌🏻⛳🚩 [GOLF](https://rellinrg.github.io/A-new-post/)
  <br>
-   🚴  [CYCLING](https://rellinrg.github.io/A-new-post/)
+ <br>
+   🚴   **[CYCLING](https://rellinrg.github.io/A-new-post/)**
