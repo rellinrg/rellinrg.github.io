@@ -6,6 +6,6 @@ published: true
 ---
 <!-- blank line -->
 <figure class="video_container">
-<iframe src="https://drive.google.com/uc?id=1Xczs41cfJ9DgXemF1njNkhv848ko4ev3&export=download" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe src="https://drive.google.com/uc?id=1Xczs41cfJ9DgXemF1njNkhv848ko4ev3" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
