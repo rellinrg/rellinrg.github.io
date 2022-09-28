@@ -24,3 +24,5 @@ published: true
 <br>
 2022-09-28 -- [Back to riding bike to work](https://rellinrg.github.io/Blog_Post6/)
 <br>
+2022-09-29 -- [Back to riding bike to work](https://rellinrg.github.io/Blog_Post6/)
+<br>
