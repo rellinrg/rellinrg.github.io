@@ -10,8 +10,6 @@ published: true
 <br>
 2022-09-25 -- [Owwa Renewal Appointment](https://rellinrg.github.io/Blog_Post3/)
 <br>
-2022-09-26 -- [Catch up with Claire](https://rellinrg.github.io/Blog_Post4/)
-<br>
 2022-09-27 -- [Strava](https://rellinrg.github.io/Blog_Post5/)
 <br>
 <br>
