@@ -444,33 +444,33 @@ December 28 - 31 --- Singapore
 <br>
 **2011**
 <br>
-January 1 - 22 --- Singapore
-<br>
-January 22 - 25 --- Cebu, Philippines
-<br>
-January 25 - August 9 --- Singapore
-<br>
-August 9 - 13 --- Singapore
-<br>
-August 13 --- Johor Bahru, Malaysia
-<br>
-August 13 - October 9 --- Singapore
-<br>
-October 9 --- Johor Bahru, Malaysia
-<br>
-October 9 - 26 --- Singapore
-<br>
-October 26 - 31 --- Cebu, Philippines
-<br>
-October 31 - November 12 --- Singapore
-<br>
-November 12 --- Johor Bahru, Malaysia
-<br>
-November 12 - 16 --- Singapore
+November 30 - December 31 --- Singapore
 <br>
 November 16 - 30 --- Cebu, Philippines
 <br>
-November 30 - December 31 --- Singapore
+November 12 - 16 --- Singapore
+<br>
+November 12 --- Johor Bahru, Malaysia
+<br>
+October 31 - November 12 --- Singapore
+<br>
+October 26 - 31 --- Cebu, Philippines
+<br>
+October 9 - 26 --- Singapore
+<br>
+October 9 --- Johor Bahru, Malaysia
+<br>
+August 13 - October 9 --- Singapore
+<br>
+August 13 --- Johor Bahru, Malaysia
+<br>
+August 9 - 13 --- Singapore
+<br>
+January 25 - August 9 --- Singapore
+<br>
+January 22 - 25 --- Cebu, Philippines
+<br>
+January 1 - 22 --- Singapore
 <br>
 <br>
 **2010**
