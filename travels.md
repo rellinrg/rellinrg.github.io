@@ -395,51 +395,51 @@ December 29 - 31 --- Singapore
 <br>
 **2012**
 <br>
-January 1 - 7 --- Singapore
-<br>
-January 7 - 11 --- Cebu, Philippines
-<br>
-January 11 - 20 --- Singapore
-<br>
-January 20 - 23 --- Phuket, Thailand
-<br>
-January 23 - February 11 --- Singapore
-<br>
-February 11 --- Johor Bahru, Malaysia
-<br>
-February 11 - March 9 --- Singapore
-<br>
-March 9 - 11 --- Cebu, Philippines
-<br>
-March 11 - April 30 --- Singapore
-<br>
-April 30 - May 5 --- Cebu, Philippines
-<br>
-May 3 - 26 --- Singapore
-<br>
-May 26 --- Johor Bahru, Malaysia
-<br>
-May 26 - August 11 --- Singapore
-<br>
-August 11 --- Johor Bahru, Malaysia
-<br>
-August 11 - 17 --- Singapore
-<br>
-August 17 - 26 --- Cebu, Philippines
-<br>
-August 26 - September 2 --- Singapore
-<br>
-September 2 --- Johor Bahru, Malaysia
-<br>
-September 2 - November 4 --- Singapore
-<br>
-November 4 --- Johor Bahru, Malaysia
-<br>
-November 4 - December 23 --- Singapore
+December 28 - 31 --- Singapore
 <br>
 December 23 - 28 --- Cebu, Philippines
 <br>
-December 28 - 31 --- Singapore
+November 4 - December 23 --- Singapore
+<br>
+November 4 --- Johor Bahru, Malaysia
+<br>
+September 2 - November 4 --- Singapore
+<br>
+September 2 --- Johor Bahru, Malaysia
+<br>
+August 26 - September 2 --- Singapore
+<br>
+August 17 - 26 --- Cebu, Philippines
+<br>
+August 11 - 17 --- Singapore
+<br>
+August 11 --- Johor Bahru, Malaysia
+<br>
+May 26 - August 11 --- Singapore
+<br>
+May 26 --- Johor Bahru, Malaysia
+<br>
+May 3 - 26 --- Singapore
+<br>
+April 30 - May 3 --- Cebu, Philippines
+<br>
+March 11 - April 30 --- Singapore
+<br>
+March 9 - 11 --- Cebu, Philippines
+<br>
+February 11 - March 9 --- Singapore
+<br>
+February 11 --- Johor Bahru, Malaysia
+<br>
+January 23 - February 11 --- Singapore
+<br>
+January 20 - 23 --- Phuket, Thailand
+<br>
+January 11 - 20 --- Singapore
+<br>
+January 7 - 11 --- Cebu, Philippines
+<br>
+January 1 - 7 --- Singapore
 <br>
 <br>
 **2011**
