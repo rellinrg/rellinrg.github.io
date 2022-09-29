@@ -7,15 +7,15 @@ published: true
 
 **2022**
 <br>
-January 1 - August 14 --- Singapore
-<br>
-August 14 --- Malaysia
-<br>
-August 14 - 28 --- Singapore
+August 28 - ATM ------- Singapore
 <br>
 August 28 --- Malaysia
 <br>
-August 28 - ATM ------- Singapore
+August 14 - 28 --- Singapore
+<br>
+August 14 --- Malaysia
+<br>
+January 1 - August 14 --- Singapore
 <br>
 <br>
 **2021**
@@ -25,17 +25,17 @@ January 1 - December 31 --- Singapore
 <br>
 **2020**
 <br>
-January 1 --- Cebu, Philippines
-<br>
-January 2 - 24 --- Singapore
-<br>
-January 24 - 25 --- Malaysia
-<br>
-January 25 - 27 --- Hatyai, Thailand
+January 29 - December 31 --- Singapore
 <br>
 January 28 - 29 --- Malaysia
 <br>
-January 29 - December 31 --- Singapore
+January 25 - 27 --- Hatyai, Thailand
+<br>
+January 24 - 25 --- Malaysia
+<br>
+January 2 - 24 --- Singapore
+<br>
+January 1 --- Cebu, Philippines
 <br>
 <br>
 **2019**
