@@ -40,57 +40,57 @@ January 29 - December 31 --- Singapore
 <br>
 **2019**
 <br>
-January 1 - February 3 --- Singapore
-<br>
-February 4 - 7 --- Cebu, Philippines
-<br>
-February 7 - March 14 --- Singapore
-<br>
-March 14 - 17 --- Phuket, Thailand
-<br>
-March 17 - 30 --- Singapore
-<br>
-March 30 --- Johor Bahru, Malaysia
-<br>
-March 30 - April 4 --- Singapore
-<br>
-April 4 - 7 --- Phuket, Thailand
-<br>
-April 7 - 18 --- Singapore
-<br>
-April 19 - 22 --- Penang, Malaysia
-<br>
-April 22 - May 17 --- Singapore
-<br>
-May 17 - 21 --- Yangoon, Myanmar/Burma
-<br>
-May 21 - June 1 --- Singapore
-<br>
-June 1 --- Johor Bahru, Malaysia
-<br>
-June 1 - August 3 --- Singapore
-<br>
-August 3 --- Johor Bahru, Malaysia
-<br>
-August 3 - September 13 --- Singapore
-<br>
-September 13 - 14 --- Johor Bahru, Malaysia
-<br>
-September 14 - October 18 --- Singapore
-<br>
-October 18 - 19 --- Malaysia
-<br>
-October 19 - November 9 --- Singapore
-<br>
-November 9 - 11 --- Cebu, Philippines
-<br>
-November 11 - 16 --- Singapore
-<br>
-November 16 - 17 --- Batam, Indonesia
+December 25 - 31 --- Cebu, Philippines
 <br>
 November 17 - December 24 --- Singapore
 <br>
-December 25 - 31 --- Cebu, Philippines
+November 16 - 17 --- Batam, Indonesia
+<br>
+November 11 - 16 --- Singapore
+<br>
+November 9 - 11 --- Cebu, Philippines
+<br>
+October 19 - November 9 --- Singapore
+<br>
+October 18 - 19 --- Malaysia
+<br>
+September 14 - October 18 --- Singapore
+<br>
+September 13 - 14 --- Johor Bahru, Malaysia
+<br>
+August 3 - September 13 --- Singapore
+<br>
+August 3 --- Johor Bahru, Malaysia
+<br>
+June 1 - August 3 --- Singapore
+<br>
+June 1 --- Johor Bahru, Malaysia
+<br>
+May 21 - June 1 --- Singapore
+<br>
+May 17 - 21 --- Yangoon, Myanmar/Burma
+<br>
+April 22 - May 17 --- Singapore
+<br>
+April 19 - 22 --- Penang, Malaysia
+<br>
+April 7 - 18 --- Singapore
+<br>
+April 4 - 7 --- Phuket, Thailand
+<br>
+March 30 - April 4 --- Singapore
+<br>
+March 30 --- Johor Bahru, Malaysia
+<br>
+March 17 - 30 --- Singapore
+<br>
+March 14 - 17 --- Phuket, Thailand
+<br>
+February 7 - March 14 --- Singapore
+<br>
+February 4 - 7 --- Cebu, Philippines
+<br>
+January 1 - February 3 --- Singapore
 <br>
 <br>
 **2018**
