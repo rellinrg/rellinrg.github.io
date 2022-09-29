@@ -276,41 +276,41 @@ December 24 - 31 --- North Yorkshire, United Kingdom
 <br>
 **2015**
 <br>
-January 1 - June 5 --- Cebu, Philippines
-<br>
-June 6 - 8 --- Singapore
-<br>
-June 9 - 21 --- Cebu, Philippines
-<br>
-June 21 - July 5 --- Singapore
-<br>
-July 12 --- Johor Bahru, Malaysia
-<br>
-July 12 - October 3 --- Singapore
-<br>
-October 3 - 4 --- Bintan, Indonesia
-<br>
-October 4 - 17 --- Singapore
-<br>
-October 17 --- Johor Bahru, Malaysia
-<br>
-October 17 - November 7 --- Singapore
-<br>
-November 7 - 9 --- Bali, Indonesia
-<br>
-November 9 - December 5 --- Singapore
-<br>
-December 5 --- Johor Bahru, Malaysia
-<br>
-December 5 - 20 --- Singapore
-<br>
-December 20 --- Munich Airport GERMANY *connecting flight*
-<br>
-December 20 - 30 --- North Yorkshire, United Kingdom
+December 31 --- Singapore
 <br>
 December 31 --- Heathrow Airport LONDON
 <br>
-December 31 --- Singapore
+December 20 - 30 --- North Yorkshire, United Kingdom
+<br>
+December 20 --- Munich Airport GERMANY *connecting flight*
+<br>
+December 5 - 20 --- Singapore
+<br>
+December 5 --- Johor Bahru, Malaysia
+<br>
+November 9 - December 5 --- Singapore
+<br>
+November 7 - 9 --- Bali, Indonesia
+<br>
+October 17 - November 7 --- Singapore
+<br>
+October 17 --- Johor Bahru, Malaysia
+<br>
+October 4 - 17 --- Singapore
+<br>
+October 3 - 4 --- Bintan, Indonesia
+<br>
+July 12 - October 3 --- Singapore
+<br>
+July 12 --- Johor Bahru, Malaysia
+<br>
+June 21 - July 12 --- Singapore
+<br>
+June 9 - 21 --- Cebu, Philippines
+<br>
+June 6 - 8 --- Singapore
+<br>
+January 1 - June 5 --- Cebu, Philippines
 <br>
 <br>
 **2014**
