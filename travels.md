@@ -315,33 +315,33 @@ December 31 --- Singapore
 <br>
 **2014**
 <br>
-January 1 - 17 --- Singapore
-<br>
-January 17 - 19 --- Ho Chi Minh, Vietnam
-<br>
-January 19 - February 2 --- Singapore
-<br>
-February 2 - 9 --- Cebu, Philippines
-<br>
-February 9 - 23 --- Singapore
-<br>
-February 23 --- Johor Bahru, Malaysia
-<br>
-February 23 - April 12 --- Singapore
-<br>
-April 12 - 19 --- Maldives
-<br>
-April 19 - May 17 --- Singapore
-<br>
-May 17 - 18 --- Johor Bahru, Malaysia
-<br>
-May 18 - 24 --- Singapore
-<br>
-May 24 - September 19 --- Cebu, Philippines
+September 22 - December 31 --- Cebu, Philippines
 <br>
 September 19 - 22 --- Singapore
 <br>
-September 22 - December 31 --- Cebu, Philippines
+May 24 - September 19 --- Cebu, Philippines
+<br>
+May 18 - 24 --- Singapore
+<br>
+May 17 - 18 --- Johor Bahru, Malaysia
+<br>
+April 19 - May 17 --- Singapore
+<br>
+April 12 - 19 --- Maldives
+<br>
+February 23 - April 12 --- Singapore
+<br>
+February 23 --- Johor Bahru, Malaysia
+<br>
+February 9 - 23 --- Singapore
+<br>
+February 2 - 9 --- Cebu, Philippines
+<br>
+January 19 - February 2 --- Singapore
+<br>
+January 17 - 19 --- Ho Chi Minh, Vietnam
+<br>
+January 1 - 17 --- Singapore
 <br>
 <br>
 **2013**
