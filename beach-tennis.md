@@ -4,8 +4,8 @@ title: "Beach Tennis  \U0001F3BE"
 permalink: /beach-tennis/
 published: true
 ---
-<!-- blank line -->
-<figure class="video_container">
-<iframe src="" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
+## May 14, 2022
+
+
+<img src="https://drive.google.com/uc?export=view&id=1WNnM0k8wZXQckjZmEOPVgVq6NixQk1kL">
