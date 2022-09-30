@@ -9,4 +9,5 @@ published: true
 
 
 <img src="https://drive.google.com/uc?export=view&id=1zxDok7wMHX66WtKv6ytRJF4jDqw-EHfj">
-<img src="https://drive.google.com/uc?export=view&id=12WVwYi8FDpgFc3iijEAODIRo-8O3Scly">
+
+<img src="https://drive.google.com/uc?export=view&id=1zxDok7wMHX66WtKv6ytRJF4jDqw-EHfj" alt="drawing" width="200"/>
