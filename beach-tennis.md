@@ -7,6 +7,15 @@ published: true
 ----
 ****
 <br>
+July 09, 2022
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1s16bSyvrm7YhGCehPuv6TEo9P2nAR4eY" alt="drawing" width="300"/>
+<br>
+<br>
+
+----
+****
+<br>
 July 02, 2022
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1qvrETj1PfDxGIrb0uj_bvHNH5aOcJ9ay" alt="drawing" width="300"/>
