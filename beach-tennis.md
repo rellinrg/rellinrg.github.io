@@ -19,9 +19,8 @@ June 04, 2022
 ****
 May 28, 2022
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1csf8ub5DpQY1CVlxfQZc6KUgzVqwQ8YX" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1S9jNxFC60TTF2MD8GNQhNiCpVCqY9NWj" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1ZhC6z13rVDEFm5CnIddbSzMGq2nDq5wl" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1yjI0meUza2peupg9JGL9Lpzn8rO8nBHj" alt="drawing" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1csf8ub5DpQY1CVlxfQZc6KUgzVqwQ8YX" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1S9jNxFC60TTF2MD8GNQhNiCpVCqY9NWj" alt="drawing" width="300"/> <img src="https://www.tiktok.com/@callmerg/video/7149089132206181633" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1yjI0meUza2peupg9JGL9Lpzn8rO8nBHj" alt="drawing" width="300"/>
 <br>
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@callmerg/video/7149089132206181633" data-video-id="7149089132206181633" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@callmerg" href="https://www.tiktok.com/@callmerg?refer=embed">@callmerg</a> <p></p> <a target="_blank" title="♬ talk that talk sped up - kpop.speedy.songs" href="https://www.tiktok.com/music/talk-that-talk-sped-up-7136107583294671658?refer=embed">♬ talk that talk sped up - kpop.speedy.songs</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 <br>
 <br>
 
