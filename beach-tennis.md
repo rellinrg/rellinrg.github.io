@@ -7,7 +7,7 @@ published: true
 ----
 ****
 May 28, 2022
-<iframe src="https://drive.google.com/file/d/1csf8ub5DpQY1CVlxfQZc6KUgzVqwQ8YX/preview" width="320" height="240" allow="autoplay"></iframe>
+<img src="https://drive.google.com/uc?export=view&id=1csf8ub5DpQY1CVlxfQZc6KUgzVqwQ8YX" alt="drawing" width="200"/>
 ----
 ****
 May 14, 2022
