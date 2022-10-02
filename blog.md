@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-02 -- [Pru Wealth Insurance Policy](https://rellinrg.github.io/Blog_Post9/)
+<br>
 2022-10-01 -- [Hello October](https://rellinrg.github.io/Blog_Post8/)
 <br>
 2022-09-30 -- [Bucket List](https://rellinrg.github.io/Blog_Post7/)
