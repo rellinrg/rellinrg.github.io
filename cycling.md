@@ -17,7 +17,10 @@ September 17-23, 2022
 <img src="https://drive.google.com/uc?export=view&id=1rJOXj09xEIPHVUBXqYvVmqT9i0zlA9qU" alt="drawing" width="400"/>
 <br>
 <br>
-Octoberfest Virtual Ride
+----
+****
+<br>
+21Day Cycling Challenge 2022 - Sydney Harbour Bridge
 <br>
 September 17-23, 2022 
 <br>
