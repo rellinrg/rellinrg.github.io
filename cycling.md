@@ -26,7 +26,7 @@ Cycle For A Cause
 July 4-17, 2022
 <br>
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1g_XLJRfE-4fNNIbwAHS9ErMZ54pXHU52" alt="drawing" width="400"/>
+<img src="https://drive.google.com/uc?export=view&id=156gusGf0vkmku70rXO8ad0VH9RQpfbAl" alt="drawing" width="400"/>
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1g_XLJRfE-4fNNIbwAHS9ErMZ54pXHU52" alt="drawing" width="400"/>
 
