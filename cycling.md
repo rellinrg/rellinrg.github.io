@@ -12,7 +12,7 @@ September 17-23, 2022
 <br>
 <br>
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1JWDL4jaYIrTuIsWY7Ykp5q1agRv4LKC5" alt="drawing" width="400"/>
+<img src="https://drive.google.com/uc?export=view&id=156gusGf0vkmku70rXO8ad0VH9RQpfbAl" alt="drawing" width="400"/>
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1rJOXj09xEIPHVUBXqYvVmqT9i0zlA9qU" alt="drawing" width="400"/>
 <br>
@@ -21,9 +21,18 @@ September 17-23, 2022
 ---
 ***
 
+Cycle For A Cause
+<br>
+July 4-17, 2022
+<br>
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1g_XLJRfE-4fNNIbwAHS9ErMZ54pXHU52" alt="drawing" width="400"/>
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1g_XLJRfE-4fNNIbwAHS9ErMZ54pXHU52" alt="drawing" width="400"/>
+
 21Day Cycling Challenge 2022 - Sydney Harbour Bridge
 <br>
-August 1-21, 2022 
+July 1-21, 2022 
 <br>
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1lK6QEpqsTgynaIYPFRKy0ICkVlgwb-cM" alt="drawing" width="400"/>
