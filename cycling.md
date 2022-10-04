@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cycling  \U0001F3BE"
+title: "Cycling  \U0001F6B4\U0001F3FB‍♀️"
 permalink: /cycling/
 published: true
 ---
