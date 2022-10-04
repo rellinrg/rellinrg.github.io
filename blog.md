@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-04 -- [Octoberfest Virtual Ride](https://rellinrg.github.io/Blog_Post10/)
+<br>
 2022-10-02 -- [Pru Wealth Insurance Policy](https://rellinrg.github.io/Blog_Post9/)
 <br>
 2022-10-01 -- [Hello October](https://rellinrg.github.io/Blog_Post8/)
