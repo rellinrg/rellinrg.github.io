@@ -21,7 +21,6 @@ September 17-23, 2022
 ---
 ***
 
-<br>
 21Day Cycling Challenge 2022 - Sydney Harbour Bridge
 <br>
 September 17-23, 2022 
