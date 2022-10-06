@@ -5,19 +5,6 @@ permalink: /catharsis/
 published: true
 ---
 <br>
-06 Oct 2022 15:44:42
-<br>
-testing this one
-<br>
-<br>
-_06 Oct 2022 15:33:03_
-<br>
-Note to Self: 
-<br>
-Do not settle for someone's sometime ...
-<br>
-<br>
-<br>
 _06 Oct 2022 15:33:03_
 <br>
 Note to Self: 
