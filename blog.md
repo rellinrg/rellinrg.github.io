@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-06 -- [and ... Found](https://rellinrg.github.io/Blog_Post13/)
+<br>
 2022-10-05 -- [Lost ID](https://rellinrg.github.io/Blog_Post12/)
 <br>
 2022-10-04 -- [Job Promotion](https://rellinrg.github.io/Blog_Post11/)
