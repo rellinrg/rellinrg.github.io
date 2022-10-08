@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-09 -- [ Redirect output gone wrong ](https://rellinrg.github.io/Blog_Post16/)
+<br>
 2022-10-08 -- [Beach Tennis Session 19](https://rellinrg.github.io/Blog_Post15/)
 <br>
 2022-10-07 -- [Cinnamon](https://rellinrg.github.io/Blog_Post14/)
