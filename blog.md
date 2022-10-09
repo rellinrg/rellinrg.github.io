@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-09 -- [Senibong Golf Course Session 3](https://rellinrg.github.io/Blog_Post18/)
+<br>
 2022-10-09 -- [Testing New Script](https://rellinrg.github.io/Blog_Post17/)
 <br>
 2022-10-09 -- [ Redirect output gone wrong ](https://rellinrg.github.io/Blog_Post16/)
