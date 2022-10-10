@@ -16,10 +16,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 <br>
-[![BEACH TENNIS SESSION 19](https://drive.google.com/uc?export=view&id=1QrpTCAROfG5vRQHzaqSxGC-zB8ehW3sF alt="drawing" width="300")](https://www.youtube.com/watch?v=Un4CQlmDff4)
-<iframe src="https://youtu.be/Un4CQlmDff4" frameborder="0" allowfullscreen="true"> </iframe>
 <br>
-<img src="https://drive.google.com/uc?export=view&id=" alt="drawing" width="300"/>
 
 ----
 ****
