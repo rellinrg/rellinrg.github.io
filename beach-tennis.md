@@ -6,6 +6,19 @@ published: true
 ---
 <br>
 <br>
+October 08, 2022
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1g8j3M8nCL1sjzTJuEWvnsdnujmkagZaV" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1tcecb-bNTRRGRMeSu85sCNzHsDKGJKJ2" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1IwPM3fp8rRf-J_FDhqiYKxWFxpTws7N6" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1epXHT1kzXz1NnYzgKvYV_EsKngX6ZteX" alt="drawing" width="300"/>
+<br>
+<br>
+<img src="https://drive.google.com/uc?export=view&id=" alt="drawing" width="300"/>
+
+
+----
+****
+
+<br>
+<br>
 July 16, 2022
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1UpdcftYjNJrJm_wUPp6f-4UoyUiXsrq4" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1hoY2p70vCd_h0R52B6X_IeONCIyTTuB0" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1fgc_iGhIeFBD-My2dUvNRxX0e-OKY9Bx" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1JI0pNxlglU9SsiU2pa6W0PWl9y3YymJ_" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1hFP-KLkuY_F5Wr7sGnjFxHV3b9AHZ2zI" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1yOisz7QHb-KfqpNdxp5wmKbWfgp0zX0m" alt="drawing" width="300"/>
