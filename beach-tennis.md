@@ -11,7 +11,7 @@ October 08, 2022
 <img src="https://drive.google.com/uc?export=view&id=1IwPM3fp8rRf-J_FDhqiYKxWFxpTws7N6" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1epXHT1kzXz1NnYzgKvYV_EsKngX6ZteX" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1g8j3M8nCL1sjzTJuEWvnsdnujmkagZaV" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1tcecb-bNTRRGRMeSu85sCNzHsDKGJKJ2" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1qnq9Dt1pIC34iuij0SMoHUTRcvPC00ve" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1uCPvoZZCILNoVbO2xwv-7WNY91LvjziA" alt="drawing" width="300"/>
 <br>
 <br>
-[![BEACH TENNIS SESSION 19](https://drive.google.com/uc?export=view&id=1QrpTCAROfG5vRQHzaqSxGC-zB8ehW3sF)](https://www.youtube.com/watch?v=Un4CQlmDff4)
+[![BEACH TENNIS SESSION 19](https://drive.google.com/uc?export=view&id=1QrpTCAROfG5vRQHzaqSxGC-zB8ehW3sF alt="drawing" width="300")](https://www.youtube.com/watch?v=Un4CQlmDff4)
 <iframe src="https://youtu.be/Un4CQlmDff4" frameborder="0" allowfullscreen="true"> </iframe>
 <br>
 <img src="https://drive.google.com/uc?export=view&id=" alt="drawing" width="300"/>
