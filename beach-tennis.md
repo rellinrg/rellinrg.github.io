@@ -17,6 +17,18 @@ October 08, 2022
 ----
 ****
 
+
+<br>
+<br>
+October 1, 2022
+<br>
+<img src="https://drive.google.com/uc?export=view&id=14QOhKYCax1lrzwweZ86Clxx20PRDoG-g" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1JqSuPxXGWw_tb7abRp600ZMXmx8QvGRA" alt="drawing" width="300"/>
+<br>
+<br>
+
+----
+****
+
 <br>
 <br>
 July 16, 2022
