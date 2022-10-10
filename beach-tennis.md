@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Beach Tennis  \U0001F3BE"
+title: "Beach Tennis Sessions  \U0001F3BE"
 permalink: /beach-tennis/
 published: true
 ---
