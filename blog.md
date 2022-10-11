@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-11 -- [Tuesday](https://rellinrg.github.io/Blog_Post20/)
+<br>
 2022-10-10 -- [Monday](https://rellinrg.github.io/Blog_Post19/)
 <br>
 2022-10-09 -- [Senibong Golf Course Session 3](https://rellinrg.github.io/Blog_Post18/)
