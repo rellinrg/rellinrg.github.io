@@ -7,13 +7,15 @@ published: true
 
 **2022**
 <br>
-August 28 - ATM ------- Singapore
+October 9 --- Senibong Golf Course, Malaysia
 <br>
-August 28 --- Malaysia
+August 28 - October 9 ------- Singapore
+<br>
+August 28 --- Senibong Golf Course, Malaysia
 <br>
 August 14 - 28 --- Singapore
 <br>
-August 14 --- Malaysia
+August 14 --- Senibong Golf Course, Malaysia
 <br>
 January 1 - August 14 --- Singapore
 <br>
