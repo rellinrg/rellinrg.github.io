@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Senibong Golf Course - Session 3"
+title: "18 holes game"
 permalink: /travels/2022-October-9/
 published: true
 ---
