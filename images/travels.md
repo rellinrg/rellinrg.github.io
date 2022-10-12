@@ -17,7 +17,7 @@ August 28 --- Senibong Golf Course, Malaysia
 <br>
 August 14 - 28 --- Singapore
 <br>
-August 14 --- Senibong Golf Course, Malaysia
+August 14 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-August-14/)
 <br>
 January 1 - August 14 --- Singapore
 <br>
