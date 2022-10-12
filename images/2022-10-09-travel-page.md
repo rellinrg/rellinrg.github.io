@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "18 holes game"
+title: 'Senibong Golf Course, Malaysia'
 permalink: /travels/2022-October-9/
 published: true
 ---
