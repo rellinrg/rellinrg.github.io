@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-10-12 -- [Good Morning](https://rellinrg.github.io/Blog_Post21/)
+2022-10-12 -- [Close Contact](https://rellinrg.github.io/Blog_Post21/)
 <br>
 2022-10-11 -- [Retirement Plan locked in](https://rellinrg.github.io/Blog_Post20/)
 <br>
