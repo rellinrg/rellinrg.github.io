@@ -53,7 +53,13 @@ September 24, 2022
 September 17, 2022
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1rJeRtwcgvDD7cYUyGH3eSV88qAnDNzuy" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1QUUPCIC_i_R88FKR-tk9K-B5SEhyvNzC" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=11IRCR8Oi-XgsKbdT6RWhHS2JjP0VBKCM" alt="drawing" width="300"/>
+<br>
+<br>
 
+----
+****
+<br>
+<br>
 July 16, 2022
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1UpdcftYjNJrJm_wUPp6f-4UoyUiXsrq4" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1hoY2p70vCd_h0R52B6X_IeONCIyTTuB0" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1fgc_iGhIeFBD-My2dUvNRxX0e-OKY9Bx" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1JI0pNxlglU9SsiU2pa6W0PWl9y3YymJ_" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1hFP-KLkuY_F5Wr7sGnjFxHV3b9AHZ2zI" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1yOisz7QHb-KfqpNdxp5wmKbWfgp0zX0m" alt="drawing" width="300"/>
