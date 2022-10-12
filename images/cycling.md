@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cycling Races"
+permalink: /cycling/
+published: true
+---
 <br>
 <br>
 Octoberfest Virtual Ride
