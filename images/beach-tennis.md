@@ -11,8 +11,7 @@ October 08, 2022
 <img src="https://drive.google.com/uc?export=view&id=1IwPM3fp8rRf-J_FDhqiYKxWFxpTws7N6" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1epXHT1kzXz1NnYzgKvYV_EsKngX6ZteX" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1g8j3M8nCL1sjzTJuEWvnsdnujmkagZaV" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1tcecb-bNTRRGRMeSu85sCNzHsDKGJKJ2" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1qnq9Dt1pIC34iuij0SMoHUTRcvPC00ve" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1uCPvoZZCILNoVbO2xwv-7WNY91LvjziA" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1x1Qn8tGsDiUNf4eIPnDX1KgMg6d85zmA" alt="drawing" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1Gm5T-w038X2xZOAVXeuZCNCE70oR4QCJ" alt="drawing" width="300"/>
 <br>
 <br>
-Video Credit: 📸 👉🏼 by Wat
-<br>
+Video Credit: 📸 by Wat 👇🏼👇🏼👇🏼
 <br>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Un4CQlmDff4"
