@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-13 -- [Good Morning](https://rellinrg.github.io/Blog_Post22/)
+<br>
 2022-10-13 -- [](https://rellinrg.github.io/Blog_Post22/)
 <br>
 2022-10-12 -- [Good Morning](https://rellinrg.github.io/Blog_Post21/)
