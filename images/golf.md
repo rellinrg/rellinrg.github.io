@@ -4,6 +4,7 @@ title: "Golf Sessions"
 permalink: /golf/
 published: true
 ---
+October 9, 2022
 <br>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/8Iv8LzfgiHc" 
