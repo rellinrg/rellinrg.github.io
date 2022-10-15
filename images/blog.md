@@ -7,6 +7,8 @@ published: true
 <br>
 2022-10-15 -- [ART Test #4](https://rellinrg.github.io/Blog_Post27/)
 <br>
+2022-10-15 -- [ART Test #4](https://rellinrg.github.io/Blog_Post27/)
+<br>
 2022-10-14 -- [Jollibee](https://rellinrg.github.io/Blog_Post26/)
 <br>
 2022-10-14 -- [ART Test 3](https://rellinrg.github.io/Blog_Post25/)
