@@ -11,7 +11,7 @@ published: true
 <br>
 2022-10-15 -- [Beach Tennis Session 20](https://rellinrg.github.io/Blog_Post28/)
 <br>
-2022-10-15 -- [ART Test #4](https://rellinrg.github.io/Blog_Post27/)
+2022-10-15 -- [ART Test 4](https://rellinrg.github.io/Blog_Post27/)
 <br>
 2022-10-14 -- [Jollibee](https://rellinrg.github.io/Blog_Post26/)
 <br>
