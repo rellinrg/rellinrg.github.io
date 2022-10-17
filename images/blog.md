@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-17 -- [Crazy little ninjas](https://rellinrg.github.io/Blog_Post30/)
+<br>
 2022-10-16 -- [A Scare](https://rellinrg.github.io/Blog_Post29/)
 <br>
 2022-10-15 -- [Beach Tennis Session 20](https://rellinrg.github.io/Blog_Post28/)
