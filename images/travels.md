@@ -7,7 +7,7 @@ published: true
 
 **2022**
 <br>
-October 9 - ATM --- Singapore
+October 9 - ATM --- Singapore 👈🏼 Im Here 📍
 <br>
 October 9 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-October-9/)
 <br>
