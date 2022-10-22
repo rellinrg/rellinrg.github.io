@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-10-22 -- [RICHIAMO COFFE](https://rellinrg.github.io/Blog_Post38/)
+2022-10-22 -- [RICHIAMO COFFEE](https://rellinrg.github.io/Blog_Post38/)
 <br>
 2022-10-22 -- [PADI KOPITIAM Jalan Trus](https://rellinrg.github.io/Blog_Post37/)
 <br>
