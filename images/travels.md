@@ -7,7 +7,9 @@ published: true
 
 **2022**
 <br>
-October 9 - ATM in here 👉🏻 👉🏻 👉🏻  Singapore
+October 21 - ATM in here 👉🏻 👉🏻 👉 Johor Bahru, Malaysia
+<br>
+October 9 - 21 --- Singapore
 <br>
 October 9 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-October-9/)
 <br>
