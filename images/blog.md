@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-10-21 -- [Arrived in Malaysia](https://rellinrg.github.io/Blog_Post34/)
+2022-10-22 -- [ATTRUS -BED & BREAKFAST-](https://rellinrg.github.io/Blog_Post35/)
+<br>
+2022-10-22 -- [Arrived in JB](https://rellinrg.github.io/Blog_Post34/)
 <br>
 2022-10-20 -- [Early Release To Celebrate This Festive Season](https://rellinrg.github.io/Blog_Post33/)
 <br>
