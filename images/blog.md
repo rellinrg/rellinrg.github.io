@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-23 -- [Ghazrin Budget Hotel](https://rellinrg.github.io/Blog_Post41/)
+<br>
 2022-10-23 -- [My first on Biryani](https://rellinrg.github.io/Blog_Post40/)
 <br>
 2022-10-23 -- [Locked in](https://rellinrg.github.io/Blog_Post39/)
