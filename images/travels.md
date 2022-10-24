@@ -7,13 +7,17 @@ published: true
 
 **2022**
 <br>
-October 21 - ATM in here 👉🏻 👉🏻 👉 Johor Bahru, Malaysia
+October 24 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+<br>
+<br>
+<br>
+October 21 - October 24 --- Johor Bahru, Malaysia
 <br>
 October 9 - 21 --- Singapore
 <br>
 October 9 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-October-9/)
 <br>
-August 28 - October 9 ------- Singapore
+August 28 - October 9 --- Singapore
 <br>
 August 28 --- Senibong Golf Course, Malaysia
 <br>
