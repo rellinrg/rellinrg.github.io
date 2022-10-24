@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-24 -- [BAR HOPPING](https://rellinrg.github.io/Blog_Post44/)
+<br>
 2022-10-24 -- [ALL IN COCONUT](https://rellinrg.github.io/Blog_Post43/)
 <br>
 2022-10-24 -- [ZZZ Sleepmode Capsule](https://rellinrg.github.io/Blog_Post42/)
