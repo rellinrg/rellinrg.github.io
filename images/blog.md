@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-24 -- [Last Day in Malaysia](https://rellinrg.github.io/Blog_Post46/)
+<br>
 2022-10-24 -- [HAPPY DEEPAVALI](https://rellinrg.github.io/Blog_Post45/)
 <br>
 2022-10-24 -- [BAR HOPPING](https://rellinrg.github.io/Blog_Post44/)
