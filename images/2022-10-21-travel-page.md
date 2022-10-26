@@ -6,6 +6,8 @@ published: true
 ---
 <br>
 <br>
+2022-10-21 -- [Arrived in Malaysia-](https://rellinrg.github.io/Blog_Post35/)
+<br>
 2022-10-22 -- [ATTRUS ~ BED AND BREAKFAST ~](https://rellinrg.github.io/Blog_Post36/)
 <br>
 2022-10-22 -- [PADI KOPITIAM Jalan Trus](https://rellinrg.github.io/Blog_Post37/)
@@ -15,8 +17,6 @@ published: true
 2022-10-23 -- [Locked in](https://rellinrg.github.io/Blog_Post39/)
 <br>
 2022-10-23 -- [My first on Biryani](https://rellinrg.github.io/Blog_Post40/)
-<br>
-2022-10-21 -- [Arrived in Malaysia-](https://rellinrg.github.io/Blog_Post35/)
 <br>
 2022-10-23 -- [Ghazrin Budget Hotel](https://rellinrg.github.io/Blog_Post41/)
 <br>
