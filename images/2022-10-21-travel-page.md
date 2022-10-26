@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Senibong Golf Course, Malaysia'
+title: 'Backpacking Johor Bahru, Malaysia'
 permalink: /travels/2022-October-21/
 published: true
 ---
