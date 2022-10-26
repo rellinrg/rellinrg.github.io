@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-27 -- [MOVE FOR HOPE](https://rellinrg.github.io/Blog_Post48/)
+<br>
 2022-10-25 -- [Back to Work!](https://rellinrg.github.io/Blog_Post47/)
 <br>
 2022-10-24 -- [Last Day in Malaysia](https://rellinrg.github.io/Blog_Post46/)
