@@ -8,7 +8,11 @@ published: true
 <br>
 2022-10-21 -- [Arrived in Malaysia-](https://rellinrg.github.io/Blog_Post35/)
 <br>
+<br>
 2022-10-22 -- [ATTRUS ~ BED AND BREAKFAST ~](https://rellinrg.github.io/Blog_Post36/)
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1tAEF1F3F7nKpat6tY9WZFiaZEpQWelZM" alt="drawing" width="600"/>
+<br>
 <br>
 2022-10-22 -- [PADI KOPITIAM Jalan Trus](https://rellinrg.github.io/Blog_Post37/)
 <br>
