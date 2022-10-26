@@ -11,7 +11,7 @@ October 24 - ATM --- 👉🏻 👉🏻 👉 in Singapore
 <br>
 <br>
 <br>
-October 21 - October 24 --- Johor Bahru, Malaysia
+October 21 - October 24 --- [Johor Bahru, Malaysia](https://rhearellin.com/travels/2022-October-21/)
 <br>
 October 9 - 21 --- Singapore
 <br>
