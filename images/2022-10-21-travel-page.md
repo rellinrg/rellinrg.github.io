@@ -22,6 +22,8 @@ published: true
 <br>
 2022-10-24 -- [ZZZ Sleepmode Capsule](https://rellinrg.github.io/Blog_Post42/)
 <br>
+<img src="https://drive.google.com/uc?export=view&id=10sdHsqZS7bUnDUfoNbtlU6bfxwU75PyQ" alt="drawing" width="300"/>
+<br>
 2022-10-24 -- [ALL IN COCONUT](https://rellinrg.github.io/Blog_Post43/)
 <br>
 2022-10-24 -- [BAR HOPPING](https://rellinrg.github.io/Blog_Post44/)
@@ -29,4 +31,5 @@ published: true
 2022-10-24 -- [HAPPY DEEPAVALI](https://rellinrg.github.io/Blog_Post45/)
 <br>
 2022-10-24 -- [Last Day in Malaysia](https://rellinrg.github.io/Blog_Post46/)
-<br>
+
+
