@@ -23,7 +23,7 @@ published: true
 <br>
 2022-10-24 -- [ZZZ Sleepmode Capsule](https://rellinrg.github.io/Blog_Post42/)
 <br>
-<img src="https://drive.google.com/uc?export=view&id=10sdHsqZS7bUnDUfoNbtlU6bfxwU75PyQ" alt="drawing" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1Hs1t_jTKNy8ikqbwE5HXtqkCDYl_uCbg" alt="drawing" width="600"/>
 <br>
 <br>
 2022-10-24 -- [ALL IN COCONUT](https://rellinrg.github.io/Blog_Post43/)
