@@ -20,6 +20,8 @@ published: true
 <br>
 2022-10-23 -- [Ghazrin Budget Hotel](https://rellinrg.github.io/Blog_Post41/)
 <br>
+<img src="https://drive.google.com/uc?export=view&id=1MmZ61iIzqZoMzKA6RsoHi483KFDkZMPa" alt="drawing" width="600"/>
+<br>
 <br>
 2022-10-24 -- [ZZZ Sleepmode Capsule](https://rellinrg.github.io/Blog_Post42/)
 <br>
