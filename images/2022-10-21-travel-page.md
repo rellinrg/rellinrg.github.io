@@ -18,6 +18,7 @@ published: true
 <br>
 2022-10-23 -- [My first on Biryani](https://rellinrg.github.io/Blog_Post40/)
 <br>
+<br>
 2022-10-23 -- [Ghazrin Budget Hotel](https://rellinrg.github.io/Blog_Post41/)
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1MmZ61iIzqZoMzKA6RsoHi483KFDkZMPa" alt="drawing" width="600"/>
