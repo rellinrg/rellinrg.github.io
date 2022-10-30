@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-10-30 -- [Down with Flu](https://rellinrg.github.io/Blog_Post51/)
+<br>
 2022-10-28 -- [Lost Balls](https://rellinrg.github.io/Blog_Post50/)
 <br>
 2022-10-27 -- [X-RAY](https://rellinrg.github.io/Blog_Post49/)
