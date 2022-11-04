@@ -1,0 +1,15 @@
+---
+layout: post
+title: Morning Sky Shade
+published: true
+---
+_05 Nov 2022 05:24:14 . Mactan Cebu Airport . Philippines_
+<br>
+<br>
+Let the Morning Sky Shade
+<br>
+be your favourite colour!
+<br>
+<br>
+
+<img src="https://drive.google.com/uc?export=view&id=1uwzeVyFFtC2DIG_tx2AQlhXhDlRanEGi" alt="drawing" width="300"/>
