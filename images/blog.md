@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-05 -- [Waiting](https://rellinrg.github.io/Blog_Post55/)
+2022-11-04 -- [Waiting](https://rellinrg.github.io/Blog_Post55/)
 <br>
 2022-11-04 -- [It led me here](https://rellinrg.github.io/Blog_Post54/)
 <br>
