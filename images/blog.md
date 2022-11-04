@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-11-04 -- [It led me here](https://rellinrg.github.io/Blog_Post54/)
+<br>
 2022-11-04 -- [I smell HOME](https://rellinrg.github.io/Blog_Post53/)
 <br>
 2022-10-31 -- [Somethings Fishy](https://rellinrg.github.io/Blog_Post52/)
