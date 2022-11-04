@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-01 -- [Somethings Fishy](https://rellinrg.github.io/Blog_Post52/)
+2022-10-31 -- [Somethings Fishy](https://rellinrg.github.io/Blog_Post52/)
 <br>
 2022-10-30 -- [Down with Flu](https://rellinrg.github.io/Blog_Post51/)
 <br>
