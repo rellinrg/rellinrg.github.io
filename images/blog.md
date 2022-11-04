@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-05 -- [Morning Sky Shade](https://rellinrg.github.io/Blog_Post_Day38_1/)
+2022-11-05 -- [Morning Sky Shade](https://rellinrg.github.io/Post_Day38_1/)
 <br>
 2022-11-04 -- [Waiting](https://rellinrg.github.io/Blog_Post55/)
 <br>
