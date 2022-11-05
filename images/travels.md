@@ -7,9 +7,11 @@ published: true
 
 **2022**
 <br>
-October 24 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+November 5 - ATM --- 👉🏻 👉🏻 👉 in Cebu, Philippines
 <br>
 <br>
+<br>
+October 24 - November 5 --- Singapore
 <br>
 October 21 - October 24 --- [Johor Bahru, Malaysia](https://rhearellin.com/travels/2022-October-21/)
 <br>
