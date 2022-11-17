@@ -7,9 +7,11 @@ published: true
 
 **2022**
 <br>
-November 5 - ATM --- 👉🏻 👉🏻 👉 in Cebu, Philippines
+November 13 - ATM --- 👉🏻 👉🏻 👉 in Singapore
 <br>
 <br>
+<br>
+November 5 - 13 --- Cebu, Philippines
 <br>
 October 24 - November 5 --- Singapore
 <br>
