@@ -5,9 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-17 -- [Morning Glimps](https://rellinrg.github.io/Day39_1/)
+2022-11-06 -- [Morning Glimps](https://rellinrg.github.io/Day39_1/)
 <br>
-2022-11-08 -- [A quick catch up at Alburs](https://rellinrg.github.io/Day38_3/)
+2022-11-05 -- [A quick catch up at Alburs](https://rellinrg.github.io/Day38_3/)
 <br>
 2022-11-05 -- [DFP](https://rellinrg.github.io/Day38_2/)
 <br>
