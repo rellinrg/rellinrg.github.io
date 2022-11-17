@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-17 -- [Sing-along Night](https://rellinrg.github.io/Day39_5/)
+2022-11-17 -- [The day after](https://rellinrg.github.io/Day40/)
+<br>
+2022-11-06 -- [Sing-along Night](https://rellinrg.github.io/Day39_5/)
 <br>
 2022-11-06 -- [Stuck up for the week](https://rellinrg.github.io/Day39_4/)
 <br>
