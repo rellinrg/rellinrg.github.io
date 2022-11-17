@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-17 -- [Karyooki (karaoke)](https://rellinrg.github.io/Day39_3/)
+2022-11-17 -- [Stuck up for the week](https://rellinrg.github.io/Day39_4/)
+<br>
+2022-11-06 -- [Karyooki (karaoke)](https://rellinrg.github.io/Day39_3/)
 <br>
 2022-11-06 -- [Hot Day](https://rellinrg.github.io/Day39_2/)
 <br>
