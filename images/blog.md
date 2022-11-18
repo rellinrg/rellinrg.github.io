@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-17 -- [Treynta E Syete](https://rellinrg.github.io/Day42/)
+2022-11-18 -- [Vitamin SEA](https://rellinrg.github.io/Day43/)
+<br>
+2022-11-09 -- [Treynta E Syete](https://rellinrg.github.io/Day42/)
 <br>
 2022-11-08 -- [Errands Day](https://rellinrg.github.io/Day41_1/)
 <br>
