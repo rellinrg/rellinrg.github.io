@@ -7,9 +7,13 @@ published: true
 
 **2022**
 <br>
-November 13 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+November 29 - ATM --- 👉🏻 👉🏻 👉 in Singapore
 <br>
 <br>
+<br>
+November 24 - 28 --- Bali, Indonesia
+<br>
+November 14 - 24 --- Singapore
 <br>
 November 5 - 13 --- Cebu, Philippines
 <br>
