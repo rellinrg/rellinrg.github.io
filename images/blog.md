@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-15 -- [Capsule Personal Dishwasher](https://rellinrg.github.io/Day48/)
+2022-11-19 -- [Capsule Personal Dishwasher](https://rellinrg.github.io/Day48/)
 <br>
 2022-11-15 -- [Litepro Folding Bike Pedal](https://rellinrg.github.io/Day47/)
 <br>
