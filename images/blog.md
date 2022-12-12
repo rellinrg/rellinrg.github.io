@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-12 -- [Flying Back](https://rellinrg.github.io/Day46/)
+2022-11-15 -- [Litepro Folding Bike Pedal](https://rellinrg.github.io/Day47/)
+<br>
+2022-11-13 -- [Flying Back](https://rellinrg.github.io/Day46/)
 <br>
 2022-11-12 -- [Family Bonding](https://rellinrg.github.io/Day45/)
 <br>
