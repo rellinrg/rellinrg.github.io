@@ -15,7 +15,7 @@ November 24 - 28 --- Bali, Indonesia
 <br>
 November 14 - 24 --- Singapore
 <br>
-November 5 - 13 --- Cebu, Philippines
+November 5 - 13 --- [Cebu, Philippines](https://rhearellin.com/travels/2022-November-5/)
 <br>
 October 24 - November 5 --- Singapore
 <br>
