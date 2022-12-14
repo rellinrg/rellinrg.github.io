@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-11-25 -- [Pavilion Surf Club](https://rellinrg.github.io/Day52_2/)
+<br>
 2022-11-25 -- [Day 1 in BALI](https://rellinrg.github.io/Day52/)
 <br>
 2022-11-24 -- [And Yet Another Trip - OFF TO BALI](https://rellinrg.github.io/Day51/)
