@@ -5,6 +5,10 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-11-25 -- [Day 1 in BALI](https://rellinrg.github.io/Day52/)
+<br>
+2022-11-24 -- [And Yet Another Trip - OFF TO BALI](https://rellinrg.github.io/Day51/)
+<br>
 2022-11-20 -- [Beach Tennis Session 21](https://rellinrg.github.io/Day50_2/)
 <br>
 2022-11-20 -- [Changing bike pedal to Litepro](https://rellinrg.github.io/Day50_1/)
