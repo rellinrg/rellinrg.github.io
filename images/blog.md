@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-11-25 -- [Day 2 in Bali](https://rellinrg.github.io/Day53/)
+2022-11-26 -- [Canggu Beach](https://rellinrg.github.io/Day53_2/)
+<br>
+2022-11-26 -- [Day 2 in Bali](https://rellinrg.github.io/Day53/)
 <br>
 2022-11-25 -- [Wrap up day 1!](https://rellinrg.github.io/Day52_5/)
 <br>
