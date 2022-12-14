@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-11-25 -- [Kuali Restaurant](https://rellinrg.github.io/Day52_4/)
+<br>
 2022-11-25 -- [Seminyak Beach](https://rellinrg.github.io/Day52_3/)
 <br>
 2022-11-25 -- [Pavilion Surf Club](https://rellinrg.github.io/Day52_2/)
