@@ -4,6 +4,8 @@ title: Blog
 permalink: /blog/
 published: true
 ---
+2022-11-26 -- [The braids](https://rellinrg.github.io/Day53_5/)
+<br>
 2022-11-26 -- [Lunch with Wayan](https://rellinrg.github.io/Day53_4/)
 <br>
 2022-11-26 -- [Surfing 101](https://rellinrg.github.io/Day53_3/)
