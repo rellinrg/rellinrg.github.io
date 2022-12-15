@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 published: true
 ---
+<br>
 2022-11-26 -- [Showing off](https://rellinrg.github.io/Day53_6/)
 <br>
 2022-11-26 -- [The braids](https://rellinrg.github.io/Day53_5/)
