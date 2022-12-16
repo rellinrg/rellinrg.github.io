@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-11-27 -- [Last night in Bali](https://rellinrg.github.io/Day54_3/)
+<br>
 2022-11-27 -- [Surfing Day 2](https://rellinrg.github.io/Day54_2/)
 <br>
 2022-11-27 -- [Bali | Day 3](https://rellinrg.github.io/Day54/)
