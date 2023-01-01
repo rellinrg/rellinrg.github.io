@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2022-12-31 -- [My 2022 Year End Review](https://rellinrg.github.io/Day56)
+<br>
 2022-11-27 -- [Last night in Bali](https://rellinrg.github.io/Day54_3/)
 <br>
 2022-11-27 -- [Surfing Day 2](https://rellinrg.github.io/Day54_2/)
