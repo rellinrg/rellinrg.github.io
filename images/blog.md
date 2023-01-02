@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2022-12-31 -- [Happy New Year 2023](https://rellinrg.github.io/Day57)
+2023-01-01 -- [Happy New Year 2023](https://rellinrg.github.io/Day57)
 <br>
 2022-12-31 -- [My 2022 Year End Review](https://rellinrg.github.io/Day56)
 <br>
