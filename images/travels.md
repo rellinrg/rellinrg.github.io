@@ -5,6 +5,7 @@ permalink: /travels/
 published: true
 ---
 **2023**
+<br>
 January 1 - ATM --- 👉🏻 👉🏻 👉 in Singapore
 <br>
 <br>
@@ -74,7 +75,11 @@ November 11 - 16 --- Singapore
 <br>
 November 9 - 11 --- Cebu, Philippines
 <br>
-October 19 - November 9 --- Singapore
+November 4 - 9 --- Singapore
+<br>
+October 26 - November 4 --- North Yorkshire, United Kingdom
+<br>
+October 19 - October 26 --- Singapore
 <br>
 October 18 - 19 --- Malaysia
 <br>
