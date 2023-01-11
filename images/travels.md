@@ -75,11 +75,19 @@ November 11 - 16 --- Singapore
 <br>
 November 9 - 11 --- Cebu, Philippines
 <br>
-November 4 - 9 --- Singapore
+November 5 - 9 --- Singapore
+<br>
+November 4 --- Abu Dhabi Airport UAE *connecting flight*
+<br>
+November 4 --- Manchester Airport
 <br>
 October 26 - November 4 --- North Yorkshire, United Kingdom
 <br>
-October 19 - October 26 --- Singapore
+October 26 --- Manchester Airport
+<br>
+October 26 --- Abu Dhabi Airport UAE *connecting flight*
+<br>
+October 19 - October 25 --- Singapore
 <br>
 October 18 - 19 --- Malaysia
 <br>
