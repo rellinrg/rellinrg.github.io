@@ -4,12 +4,18 @@ title: "Whereabouts  \U0001F4CD\U0001F5FA️"
 permalink: /travels/
 published: true
 ---
-
+**2023**
+January 1 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+<br>
+<br>
+<br>
 **2022**
 <br>
-November 29 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+December 30 - 31 --- Singapore
 <br>
+December 27 - 30 --- Johor Bahru, Malaysia | Batu Pahat | Pontian
 <br>
+November 29 - December 27 --- Singapore
 <br>
 November 24 - 28 --- Bali, Indonesia
 <br>
