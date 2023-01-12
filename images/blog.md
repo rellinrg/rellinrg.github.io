@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-01-12 -- [12/365](https://rellinrg.github.io/Day69)
+<br>
 2023-01-11 -- [11/365](https://rellinrg.github.io/Day68)
 <br>
 2023-01-10 -- [10/365](https://rellinrg.github.io/Day67)
