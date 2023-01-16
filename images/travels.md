@@ -6,7 +6,9 @@ published: true
 ---
 **2023**
 <br>
-January 1 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+January 13 - ATM --- 👉🏻 👉🏻 👉 in Cebu | Moalboal | Argao
+<br>
+January 1 - 13 --- Singapore
 <br>
 <br>
 <br>
