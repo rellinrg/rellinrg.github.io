@@ -5,6 +5,16 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-01-14 -- [Moalboal Beach](https://rellinrg.github.io/Day71_2)
+<br>
+2023-01-14 -- [Moalboal Trip](https://rellinrg.github.io/Day71)
+<br>
+2023-01-13 -- [Landed](https://rellinrg.github.io/Day70)
+<br>
+2023-01-12 -- [Delayed](https://rellinrg.github.io/Day69_3)
+<br>
+2023-01-12 -- [in Airport](https://rellinrg.github.io/Day69_2)
+<br>
 2023-01-12 -- [12/365](https://rellinrg.github.io/Day69)
 <br>
 2023-01-11 -- [11/365](https://rellinrg.github.io/Day68)
