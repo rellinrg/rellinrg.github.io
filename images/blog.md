@@ -5,6 +5,12 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-01-15 -- [Goodbye Moalboal](https://rellinrg.github.io/Day72_2)
+<br>
+2023-01-15 -- [Check Out](https://rellinrg.github.io/Day72)
+<br>
+2023-01-14 -- [Afternoon Games](https://rellinrg.github.io/Day71_3)
+<br>
 2023-01-14 -- [Moalboal Beach](https://rellinrg.github.io/Day71_2)
 <br>
 2023-01-14 -- [Moalboal Trip](https://rellinrg.github.io/Day71)
