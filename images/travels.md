@@ -8,7 +8,7 @@ published: true
 <br>
 January 17 - ATM --- 👉🏻 👉🏻 👉 in Singapore
 <br>
-January 13 - 16 --- Cebu, Philippines | Moalboal | Argao
+January 13 - 16 --- [Cebu, Philippines | Moalboal | Argao](https://rhearellin.com/travels/2023-January-13/)
 <br>
 January 1 - 13 --- Singapore
 <br>
