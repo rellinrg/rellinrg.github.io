@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-02-06 -- [Good Morning Monday](https://rellinrg.github.io/Day93_2)
+2023-02-06 -- [The shortcut](https://rellinrg.github.io/Day94_2)
+<br>
+2023-02-06 -- [Good Morning Monday](https://rellinrg.github.io/Day94)
 <br>
 2023-02-05 -- [Bespoke Hair Scalp Theraphy](https://rellinrg.github.io/Day93_2)
 <br>
