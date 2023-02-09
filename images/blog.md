@@ -5,6 +5,12 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-09 -- [New Pods](https://rellinrg.github.io/Day96)
+<br>
+2023-02-08 -- [Deact](https://rellinrg.github.io/Day95_2)
+<br>
+2023-02-08 -- [zero motivation](https://rellinrg.github.io/Day95)
+<br>
 2023-02-06 -- [The shortcut](https://rellinrg.github.io/Day94_2)
 <br>
 2023-02-06 -- [Good Morning Monday](https://rellinrg.github.io/Day94)
