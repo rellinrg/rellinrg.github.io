@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Whereabouts  \U0001F4CD\U0001F5FA️"
+title:
 permalink: /travels/
 published: true
 ---
