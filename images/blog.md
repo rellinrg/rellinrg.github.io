@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 
+title: Blog
 permalink: /blog/
 published: true
 ---
+<br>
+2023-02-17 -- [Its not good to keep things bottled up](https://rellinrg.github.io/Day103_3/)
 <br>
 2023-02-12 -- [Your Place or Mine](https://rellinrg.github.io/Day99)
 <br>
