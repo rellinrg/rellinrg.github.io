@@ -7,13 +7,13 @@ published: true
 <br>
 2023-02-16 -- [Its not good to keep things bottled up](https://rellinrg.github.io/Day103_3/)
 <br>
-2023-02-16 -- [A little walk)](https://rellinrg.github.io/Day103_2)
+2023-02-16 -- [A little walk](https://rellinrg.github.io/Day103_2)
 <br>
-2023-02-16 -- [Take a deep breath)](https://rellinrg.github.io/Day103)
+2023-02-16 -- [Take a deep breath](https://rellinrg.github.io/Day103)
 <br>
-2023-02-15 -- [Wednesday late Meetings)](https://rellinrg.github.io/Day102)
+2023-02-15 -- [Wednesday late Meetings](https://rellinrg.github.io/Day102)
 <br>
-2023-02-14 -- [Titanic (Re-release)](https://rellinrg.github.io/Day101_4)
+2023-02-14 -- [Titanic (Re-release](https://rellinrg.github.io/Day101_4)
 <br>
 2023-02-14 -- [Depleted](https://rellinrg.github.io/Day101_3)
 <br>
