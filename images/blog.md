@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-17 -- [Its Friday](https://rellinrg.github.io/Day104/)
+<br>
 2023-02-16 -- [Its not good to keep things bottled up](https://rellinrg.github.io/Day103_3/)
 <br>
 2023-02-16 -- [A little walk](https://rellinrg.github.io/Day103_2)
@@ -366,3 +368,5 @@ published: true
 
 
 
+2023-02-17 -- [Its Friday](https://rellinrg.github.io/Day104/)
+<br>
