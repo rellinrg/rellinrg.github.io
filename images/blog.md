@@ -351,7 +351,7 @@ published: true
 <br>
 2022-10-05 -- [Lost ID](https://rellinrg.github.io/Blog_Post12/)
 <br>
-2022-10-04 -- [Job Promotion](https://rellinrg.github.io/Blog_Post11/)
+2022-10-04 -- [Job Promotion](https://rellinrg.github.io/Blog_Post10_2//)
 <br>
 2022-10-04 -- [Octoberfest Virtual Ride](https://rellinrg.github.io/Blog_Post10/)
 <br>
