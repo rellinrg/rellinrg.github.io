@@ -369,7 +369,7 @@ published: true
 <br>
 2022-09-25 -- [Owwa Renewal Appointment](https://rellinrg.github.io/Blog_Post3/)
 <br>
-2022-09-23 -- [Testing Script](https://rellinrg.github.io/Blog_Post2/)
+2022-09-23 -- [Testing Script](https://rellinrg.github.io/Day2/)
 <br>
 2022-09-22 -- [New Begginings](https://rellinrg.github.io/Day1/)
 <br>
