@@ -369,7 +369,7 @@ published: true
 <br>
 2022-09-30 -- [Bucket List](https://rellinrg.github.io/Blog_Post7/)
 <br>
-2022-09-28 -- [Back to riding bike to work](https://rellinrg.github.io/Blog_Post6/)
+2022-09-28 -- [Back to riding bike to work](https://rellinrg.github.io/Day6/)
 <br>
 2022-09-27 -- [Strava](https://rellinrg.github.io/Day5/)
 <br>
