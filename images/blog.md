@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-18 -- [Recovery Day](https://rellinrg.github.io/Day106/)
+<br>
 2023-02-18 -- [Potluck Dinner & BBQ](https://rellinrg.github.io/Day105_4/)
 <br>
 2023-02-18 -- [Beach Tennis Session 29](https://rellinrg.github.io/Day105_3/)
