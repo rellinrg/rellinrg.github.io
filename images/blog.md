@@ -355,7 +355,7 @@ published: true
 <br>
 2022-10-07 -- [Cinnamon](https://rellinrg.github.io/Blog_Post14/)
 <br>
-2022-10-06 -- [and ... Found](https://rellinrg.github.io/Blog_Post13/)
+2022-10-06 -- [and ... Found](https://rellinrg.github.io/Day12/)
 <br>
 2022-10-05 -- [Lost ID](https://rellinrg.github.io/Day11/)
 <br>
