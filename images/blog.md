@@ -375,7 +375,7 @@ published: true
 <br>
 2022-09-26 -- [Claire](https://rellinrg.github.io/Blog_Post4/)
 <br>
-2022-09-25 -- [Owwa Renewal Appointment](https://rellinrg.github.io/Blog_Post3/)
+2022-09-25 -- [Owwa Renewal Appointment](https://rellinrg.github.io/Day3/)
 <br>
 2022-09-23 -- [Testing Script](https://rellinrg.github.io/Day2/)
 <br>
