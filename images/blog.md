@@ -371,7 +371,7 @@ published: true
 <br>
 2022-09-28 -- [Back to riding bike to work](https://rellinrg.github.io/Blog_Post6/)
 <br>
-2022-09-27 -- [Strava](https://rellinrg.github.io/Blog_Post5/)
+2022-09-27 -- [Strava](https://rellinrg.github.io/Day5/)
 <br>
 2022-09-26 -- [Claire](https://rellinrg.github.io/Day4/)
 <br>
