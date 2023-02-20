@@ -341,7 +341,7 @@ published: true
 <br>
 2022-10-12 -- [Close Contact](https://rellinrg.github.io/Blog_Post21/)
 <br>
-2022-10-11 -- [Retirement Plan locked in](https://rellinrg.github.io/Blog_Post20/)
+2022-10-11 -- [Retirement Plan locked in](https://rellinrg.github.io/Day17/)
 <br>
 2022-10-10 -- [Rainy Monday](https://rellinrg.github.io/Day16/)
 <br>
