@@ -343,7 +343,7 @@ published: true
 <br>
 2022-10-11 -- [Retirement Plan locked in](https://rellinrg.github.io/Blog_Post20/)
 <br>
-2022-10-10 -- [Rainy Monday](https://rellinrg.github.io/Blog_Post19/)
+2022-10-10 -- [Rainy Monday](https://rellinrg.github.io/Day16/)
 <br>
 2022-10-09 -- [Senibong Golf Course Session 3](https://rellinrg.github.io/Day15_3/)
 <br>
