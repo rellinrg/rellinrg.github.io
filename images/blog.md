@@ -367,7 +367,7 @@ published: true
 <br>
 2022-10-01 -- [Hello October](https://rellinrg.github.io/Blog_Post8/)
 <br>
-2022-09-30 -- [Bucket List](https://rellinrg.github.io/Blog_Post7/)
+2022-09-30 -- [Bucket List](https://rellinrg.github.io/Day7/)
 <br>
 2022-09-28 -- [Back to riding bike to work](https://rellinrg.github.io/Day6/)
 <br>
