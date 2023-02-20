@@ -371,12 +371,5 @@ published: true
 <br>
 2022-09-23 -- [Testing Script](https://rellinrg.github.io/Blog_Post2/)
 <br>
-2022-09-22 -- [First Post](https://rellinrg.github.io/A-new-post/)
-<br>
-
-
-
-
-
-2023-02-17 -- [Its Friday](https://rellinrg.github.io/Day104/)
+2022-09-22 -- [First Post](https://rellinrg.github.io/Day1/)
 <br>
