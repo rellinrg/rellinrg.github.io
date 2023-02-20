@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-02-19 -- [Maintenance Meds](https://rellinrg.github.io/Day106_3/)
+2023-02-19 -- [Meds Increase](https://rellinrg.github.io/Day106_3/)
 <br>
 2023-02-19 -- [Lump in my back](https://rellinrg.github.io/Day106_2/)
 <br>
