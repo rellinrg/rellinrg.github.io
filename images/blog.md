@@ -353,7 +353,7 @@ published: true
 <br>
 2022-10-08 -- [Beach Tennis Session 19](https://rellinrg.github.io/Blog_Post15/)
 <br>
-2022-10-07 -- [Cinnamon](https://rellinrg.github.io/Blog_Post14/)
+2022-10-07 -- [Cinnamon](https://rellinrg.github.io/Day13/)
 <br>
 2022-10-06 -- [and ... Found](https://rellinrg.github.io/Day12/)
 <br>
