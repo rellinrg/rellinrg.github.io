@@ -351,7 +351,7 @@ published: true
 <br>
 2022-10-09 -- [ Redirect output gone wrong ](https://rellinrg.github.io/Day15/)
 <br>
-2022-10-08 -- [Beach Tennis Session 19](https://rellinrg.github.io/Blog_Post15/)
+2022-10-08 -- [Beach Tennis Session 19](https://rellinrg.github.io/Day14/)
 <br>
 2022-10-07 -- [Cinnamon](https://rellinrg.github.io/Day13/)
 <br>
