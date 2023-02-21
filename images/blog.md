@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-21 -- [Browsing](https://rellinrg.github.io/Day108_2/)
+<br>
 2023-02-21 -- [Re-trace](https://rellinrg.github.io/Day108/)
 <br>
 2023-02-20 -- [Missing Piece](https://rellinrg.github.io/Day107/)
