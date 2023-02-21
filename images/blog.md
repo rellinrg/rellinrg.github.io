@@ -315,7 +315,7 @@ published: true
 <br>
 2022-10-21 -- [Long Weekend Starts now](https://rellinrg.github.io/Blog_Post34/)
 <br>
-2022-10-20 -- [Early Release To Celebrate This Festive Season](https://rellinrg.github.io/Blog_Post33/)
+2022-10-20 -- [Early Release To Celebrate This Festive Season](https://rellinrg.github.io/Day26/)
 <br>
 2022-10-19 -- [A Day In My Life](https://rellinrg.github.io/Day25/)
 <br>
