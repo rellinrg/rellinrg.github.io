@@ -319,7 +319,7 @@ published: true
 <br>
 2022-10-19 -- [A Day In My Life](https://rellinrg.github.io/Blog_Post32/)
 <br>
-2022-10-18 -- [Observations After Weeks of Blogging](https://rellinrg.github.io/Blog_Post31/)
+2022-10-18 -- [Observations After Weeks of Blogging](https://rellinrg.github.io/Day24/)
 <br>
 2022-10-17 -- [Crazy little ninjas](https://rellinrg.github.io/Day23/)
 <br>
