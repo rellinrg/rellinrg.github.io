@@ -281,7 +281,7 @@ published: true
 <br>
 2022-11-04 -- [I smell HOME](https://rellinrg.github.io/Blog_Post53/)
 <br>
-2022-10-31 -- [Somethings Fishy](https://rellinrg.github.io/Blog_Post52/)
+2022-10-31 -- [Somethings Fishy](https://rellinrg.github.io/Day36/)
 <br>
 2022-10-30 -- [Down with Flu](https://rellinrg.github.io/Day35/)
 <br>
