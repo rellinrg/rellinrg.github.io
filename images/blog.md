@@ -311,9 +311,9 @@ published: true
 <br>
 2022-10-22 -- [ATTRUS ~ BED AND BREAKFAST ~](https://rellinrg.github.io/Blog_Post36/)
 <br>
-2022-10-21 -- [Arrived in Malaysia-](https://rellinrg.github.io/Blog_Post35/)
+2022-10-21 -- [Arrived in Malaysia-](https://rellinrg.github.io/Day27_2/)
 <br>
-2022-10-21 -- [Long Weekend Starts now](https://rellinrg.github.io/Blog_Post34/)
+2022-10-21 -- [Long Weekend Starts now](https://rellinrg.github.io/Day27/)
 <br>
 2022-10-20 -- [Early Release To Celebrate This Festive Season](https://rellinrg.github.io/Day26/)
 <br>
