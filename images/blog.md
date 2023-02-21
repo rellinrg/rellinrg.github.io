@@ -293,17 +293,17 @@ published: true
 <br>
 2022-10-24 -- [HAPPY DEEPAVALI](https://rellinrg.github.io/Blog_Post45/)
 <br>
-2022-10-24 -- [BAR HOPPING](https://rellinrg.github.io/Blog_Post44/)
+2022-10-23 -- [BAR HOPPING](https://rellinrg.github.io/Day29_6/)
 <br>
-2022-10-24 -- [ALL IN COCONUT](https://rellinrg.github.io/Blog_Post43/)
+2022-10-23 -- [ALL IN COCONUT](https://rellinrg.github.io/Day29_5/)
 <br>
-2022-10-24 -- [ZZZ Sleepmode Capsule](https://rellinrg.github.io/Blog_Post42/)
+2022-10-23 -- [ZZZ Sleepmode Capsule](https://rellinrg.github.io/Day29_4/)
 <br>
-2022-10-23 -- [Ghazrin Budget Hotel](https://rellinrg.github.io/Blog_Post41/)
+2022-10-23 -- [Ghazrin Budget Hotel](https://rellinrg.github.io/Day29_3/)
 <br>
-2022-10-23 -- [My first on Biryani](https://rellinrg.github.io/Blog_Post40/)
+2022-10-23 -- [My first on Biryani](https://rellinrg.github.io/Day29_2/)
 <br>
-2022-10-23 -- [Locked in](https://rellinrg.github.io/Blog_Post39/)
+2022-10-23 -- [Locked in](https://rellinrg.github.io/Day29/)
 <br>
 2022-10-22 -- [RICHIAMO COFFEE](https://rellinrg.github.io/Day28_3/)
 <br>
