@@ -275,11 +275,11 @@ published: true
 <br>
 2022-11-05 -- [Morning Sky Shade](https://rellinrg.github.io/Day38_1/)
 <br>
-2022-11-04 -- [Waiting](https://rellinrg.github.io/Blog_Post55/)
+2022-11-04 -- [Waiting](https://rellinrg.github.io/Day37_3/)
 <br>
-2022-11-04 -- [It led me here](https://rellinrg.github.io/Blog_Post54/)
+2022-11-04 -- [It led me here](https://rellinrg.github.io/Day37_2/)
 <br>
-2022-11-04 -- [I smell HOME](https://rellinrg.github.io/Blog_Post53/)
+2022-11-04 -- [I smell HOME](https://rellinrg.github.io/Day37/)
 <br>
 2022-10-31 -- [Somethings Fishy](https://rellinrg.github.io/Day36/)
 <br>
