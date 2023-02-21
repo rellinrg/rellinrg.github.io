@@ -325,9 +325,9 @@ published: true
 <br>
 2022-10-16 -- [A Scare](https://rellinrg.github.io/Blog_Post29/)
 <br>
-2022-10-15 -- [Beach Tennis Session 20](https://rellinrg.github.io/Blog_Post28/)
+2022-10-15 -- [Beach Tennis Session 20](https://rellinrg.github.io/Day21_2)
 <br>
-2022-10-15 -- [ART Test #4](https://rellinrg.github.io/Blog_Post27/)
+2022-10-15 -- [ART Test #4](https://rellinrg.github.io/Day21/)
 <br>
 2022-10-14 -- [Jollibee](https://rellinrg.github.io/Day20_2/)
 <br>
