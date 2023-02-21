@@ -285,7 +285,7 @@ published: true
 <br>
 2022-10-27 -- [X-RAY](https://rellinrg.github.io/Blog_Post49/)
 <br>
-2022-10-26 -- [MOVE FOR HOPE](https://rellinrg.github.io/Blog_Post48/)
+2022-10-26 -- [MOVE FOR HOPE](https://rellinrg.github.io/Day32/)
 <br>
 2022-10-25 -- [Back to Work!](https://rellinrg.github.io/Day31/)
 <br>
