@@ -289,9 +289,9 @@ published: true
 <br>
 2022-10-25 -- [Back to Work!](https://rellinrg.github.io/Blog_Post47/)
 <br>
-2022-10-24 -- [Last Day in Malaysia](https://rellinrg.github.io/Blog_Post46/)
+2022-10-24 -- [Last Day in Malaysia](https://rellinrg.github.io/Day30_2/)
 <br>
-2022-10-24 -- [HAPPY DEEPAVALI](https://rellinrg.github.io/Blog_Post45/)
+2022-10-24 -- [HAPPY DEEPAVALI](https://rellinrg.github.io/Day30/)
 <br>
 2022-10-23 -- [BAR HOPPING](https://rellinrg.github.io/Day29_6/)
 <br>
