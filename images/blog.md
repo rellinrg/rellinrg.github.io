@@ -333,11 +333,11 @@ published: true
 <br>
 2022-10-14 -- [ART Test 3](https://rellinrg.github.io/Blog_Post25/)
 <br>
-2022-10-13 -- [ART Test 2](https://rellinrg.github.io/Blog_Post24/)
+2022-10-13 -- [ART Test 2](https://rellinrg.github.io/Day19_3/)
 <br>
-2022-10-13 -- [Doll House](https://rellinrg.github.io/Blog_Post23/)
+2022-10-13 -- [Doll House](https://rellinrg.github.io/Day19_2/)
 <br>
-2022-10-13 -- [Aqua shoe Watersports bootie](https://rellinrg.github.io/Blog_Post22/)
+2022-10-13 -- [Aqua shoe Watersports bootie](https://rellinrg.github.io/Day19/)
 <br>
 2022-10-12 -- [Close Contact](https://rellinrg.github.io/Day18/)
 <br>
