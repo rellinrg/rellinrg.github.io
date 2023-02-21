@@ -329,9 +329,9 @@ published: true
 <br>
 2022-10-15 -- [ART Test #4](https://rellinrg.github.io/Blog_Post27/)
 <br>
-2022-10-14 -- [Jollibee](https://rellinrg.github.io/Blog_Post26/)
+2022-10-14 -- [Jollibee](https://rellinrg.github.io/Day20_2/)
 <br>
-2022-10-14 -- [ART Test 3](https://rellinrg.github.io/Blog_Post25/)
+2022-10-14 -- [ART Test 3](https://rellinrg.github.io/Day20/)
 <br>
 2022-10-13 -- [ART Test 2](https://rellinrg.github.io/Day19_3/)
 <br>
