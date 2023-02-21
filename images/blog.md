@@ -283,7 +283,7 @@ published: true
 <br>
 2022-10-28 -- [Lost Balls](https://rellinrg.github.io/Blog_Post50/)
 <br>
-2022-10-27 -- [X-RAY](https://rellinrg.github.io/Blog_Post49/)
+2022-10-27 -- [X-RAY](https://rellinrg.github.io/Day33/)
 <br>
 2022-10-26 -- [MOVE FOR HOPE](https://rellinrg.github.io/Day32/)
 <br>
