@@ -317,7 +317,7 @@ published: true
 <br>
 2022-10-20 -- [Early Release To Celebrate This Festive Season](https://rellinrg.github.io/Blog_Post33/)
 <br>
-2022-10-19 -- [A Day In My Life](https://rellinrg.github.io/Blog_Post32/)
+2022-10-19 -- [A Day In My Life](https://rellinrg.github.io/Day25/)
 <br>
 2022-10-18 -- [Observations After Weeks of Blogging](https://rellinrg.github.io/Day24/)
 <br>
