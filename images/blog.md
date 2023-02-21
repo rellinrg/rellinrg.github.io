@@ -321,7 +321,7 @@ published: true
 <br>
 2022-10-18 -- [Observations After Weeks of Blogging](https://rellinrg.github.io/Blog_Post31/)
 <br>
-2022-10-17 -- [Crazy little ninjas](https://rellinrg.github.io/Blog_Post30/)
+2022-10-17 -- [Crazy little ninjas](https://rellinrg.github.io/Day23/)
 <br>
 2022-10-16 -- [A Scare](https://rellinrg.github.io/Day22/)
 <br>
