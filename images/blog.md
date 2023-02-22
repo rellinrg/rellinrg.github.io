@@ -275,7 +275,7 @@ published: true
 <br>
 2022-11-05 -- [DFP](https://rellinrg.github.io/Day38_2/)
 <br>
-2022-11-05 -- [Morning Sky Shade](https://rellinrg.github.io/Day38_1/)
+2022-11-05 -- [Morning Sky Shade](https://rellinrg.github.io/Day38/)
 <br>
 2022-11-04 -- [Waiting](https://rellinrg.github.io/Day37_3/)
 <br>
