@@ -261,7 +261,7 @@ published: true
 <br>
 2022-11-09 -- [Treynta E Syete](https://rellinrg.github.io/Day42/)
 <br>
-2022-11-08 -- [Errands Day](https://rellinrg.github.io/Day41_1/)
+2022-11-08 -- [Errands Day](https://rellinrg.github.io/Day41/)
 <br>
 2022-11-07 -- [The day after](https://rellinrg.github.io/Day40/)
 <br>
