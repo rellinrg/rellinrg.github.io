@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-23 -- [The shortcut](https://rellinrg.github.io/Day109/)
+<br>
 2023-02-21 -- [Pork Basil (Pad Kra Pao)](https://rellinrg.github.io/Day108_3/)
 <br>
 2023-02-21 -- [Browsing](https://rellinrg.github.io/Day108_2/)
@@ -269,7 +271,7 @@ published: true
 <br>
 2022-11-06 -- [Hot Day](https://rellinrg.github.io/Day39_2/)
 <br>
-2022-11-06 -- [Morning Glimps](https://rellinrg.github.io/Day39_1/)
+2022-11-06 -- [Morning Glimps](https://rellinrg.github.io/Day39/)
 <br>
 2022-11-05 -- [A quick catch up at Alburs](https://rellinrg.github.io/Day38_3/)
 <br>
