@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-23 -- [K6 Medical Centre](https://rellinrg.github.io/Day109_2/)
+<br>
 2023-02-23 -- [The shortcut](https://rellinrg.github.io/Day109/)
 <br>
 2023-02-21 -- [Pork Basil (Pad Kra Pao)](https://rellinrg.github.io/Day108_3/)
