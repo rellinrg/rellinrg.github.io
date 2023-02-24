@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-24 -- [18:31🚴🏼‍♀️](https://rellinrg.github.io/Day110_2/)
+<br>
 2023-02-24 -- [Early Breaky](https://rellinrg.github.io/Day110/)
 <br>
 2023-02-23 -- [Carousell 70th deal](https://rellinrg.github.io/Day109_3/)
