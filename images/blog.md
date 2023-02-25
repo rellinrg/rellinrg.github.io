@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-24 -- [72nd deal](https://rellinrg.github.io/Day110_4/)
+<br>
 2023-02-24 -- [Chicken Chop with Mince Pork and Saigon net spring rolls](https://rellinrg.github.io/Day110_3/)
 <br>
 2023-02-24 -- [18:31🚴🏼‍♀️](https://rellinrg.github.io/Day110_2/)
