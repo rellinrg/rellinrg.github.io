@@ -253,7 +253,7 @@ published: true
 <br>
 2022-11-20 -- [Beach Tennis Session 21](https://rellinrg.github.io/Day50_2/)
 <br>
-2022-11-20 -- [Changing bike pedal to Litepro](https://rellinrg.github.io/Day50_1/)
+2022-11-20 -- [Changing bike pedal to Litepro](https://rellinrg.github.io/Day50/)
 <br>
 2022-11-19 -- [Animal Day Virtual Ride 2022](https://rellinrg.github.io/Day49_2/)
 <br>
