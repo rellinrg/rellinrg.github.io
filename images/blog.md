@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-26 -- [ARTS in Motion - NAFA VIRTUAL CHALLENGE 2023](https://rellinrg.github.io/Day112_2/)
+<br>
 2023-02-26 -- [LOVE AND OTHER DRUGS](https://rellinrg.github.io/Day112/)
 <br>
 2023-02-25 -- [73rd Deal](https://rellinrg.github.io/Day111_3/)
