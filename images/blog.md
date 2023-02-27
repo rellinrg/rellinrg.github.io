@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-02-25 -- [20.82KM ride🚴🏼‍♀️](https://rellinrg.github.io/Day111_2/)
+2023-02-25 -- [73rd Deal](https://rellinrg.github.io/Day111_3/)
+<br>
+2023-02-25 -- [20.82 KM ride🚴🏼‍♀️](https://rellinrg.github.io/Day111_2/)
 <br>
 <br>
 2023-02-25 -- [Beach Tennis Session 30](https://rellinrg.github.io/Day111/)
