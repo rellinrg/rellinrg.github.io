@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-28 -- [Last Day of Feb](https://rellinrg.github.io/Day114/)
+<br>
 2023-02-27 -- [74th Deal](https://rellinrg.github.io/Day113/)
 <br>
 2023-02-26 -- [ARTS in Motion - NAFA VIRTUAL CHALLENGE 2023](https://rellinrg.github.io/Day112_2/)
