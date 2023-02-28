@@ -1,4 +1,9 @@
 ---
 layout: default
 ---
-<img src="https://drive.google.com/uc?export=view&id=1vxqHDMPoSV1Q1JGbk8LvdaRG3qGKq7je" alt="drawing" width="350" height="200"/>
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
