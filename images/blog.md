@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Posts
+title: Blog
 permalink: /blog/
 published: true
 ---
+<br>
+2023-02-27 -- [74th Deal](https://rellinrg.github.io/Day113/)
 <br>
 2023-02-26 -- [ARTS in Motion - NAFA VIRTUAL CHALLENGE 2023](https://rellinrg.github.io/Day112_2/)
 <br>
@@ -410,3 +412,4 @@ published: true
 2022-09-23 -- [Testing Script](https://rellinrg.github.io/Day2/)
 <br>
 2022-09-22 -- [New Begginings](https://rellinrg.github.io/Day1/)
+<br>
