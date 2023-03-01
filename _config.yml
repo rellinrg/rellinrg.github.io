@@ -80,3 +80,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    
+ # excerpt separator
+ excerpt_separator: "<!--more-->"
