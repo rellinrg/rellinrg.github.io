@@ -235,6 +235,8 @@ published: true
 <br>
 2022-12-03 -- [Beach Tennis Session 22](https://rellinrg.github.io/Day60)
 <br>
+2022-11-28 -- [BALI Day 4 and the last](https://rellinrg.github.io/Day55/)
+<br>
 2022-11-27 -- [Last night in Bali](https://rellinrg.github.io/Day54_3/)
 <br>
 2022-11-27 -- [Surfing Day 2](https://rellinrg.github.io/Day54_2/)
