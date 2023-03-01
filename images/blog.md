@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-02-28 -- [ February Expenses Review](https://rellinrg.github.io/Day114_2/)
+<br>
 2023-02-28 -- [Last Day of Feb](https://rellinrg.github.io/Day114/)
 <br>
 2023-02-27 -- [74th Deal](https://rellinrg.github.io/Day113/)
