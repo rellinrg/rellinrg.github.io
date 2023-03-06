@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-03 -- [CREED III](https://rellinrg.github.io/Day116_3/)
+<br>
 2023-03-03 -- [614 points 🏀](https://rellinrg.github.io/Day116_2/)
 <br>
 2023-03-03 -- [Max's All About Chicken, Hickory BBQ](https://rellinrg.github.io/Day116/)
