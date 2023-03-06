@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-03 -- [Max's All About Chicken, Hickory BBQ](https://rellinrg.github.io/Day116/)
+<br>
 2023-03-01 -- [Loop](https://rellinrg.github.io/Day115/)
 <br>
 2023-02-28 -- [ February Expenses Review](https://rellinrg.github.io/Day114_2/)
