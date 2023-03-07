@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-05 -- [God, not my will, but let YOUR will be done.](https://rellinrg.github.io/Day119/)
+<br>
 2023-03-05 -- [618 points 🏀](https://rellinrg.github.io/Day118_2/)
 <br>
 2023-03-05 -- [Lost & found](https://rellinrg.github.io/Day118/)
