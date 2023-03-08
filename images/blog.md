@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-03-07 -- [Ri-Chee](https://rellinrg.github.io/Day120/)
+2023-03-07 -- [The Wandering Earth II](https://rellinrg.github.io/Day120/)
 <br>
 2023-03-06 -- [Ri-Chee](https://rellinrg.github.io/Day119_3/)
 <br>
