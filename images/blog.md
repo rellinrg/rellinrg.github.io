@@ -251,7 +251,7 @@ published: true
 <br>
 2023-01-06 -- [6/365](https://rellinrg.github.io/Day59)
 <br>
-2023-01-02 -- [Video Editing](https://rellinrg.github.io/Day58)
+2023-01-02 -- [Wedding Season](https://rellinrg.github.io/Day58)
 <br>
 2023-01-01 -- [Happy New Year 2023](https://rellinrg.github.io/Day57)
 <br>
