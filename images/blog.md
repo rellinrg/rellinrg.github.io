@@ -247,7 +247,7 @@ published: true
 <br>
 2023-01-07 -- [Beach Tennis Session 27](https://rellinrg.github.io/Day62_2)
 <br>
-2023-01-07 -- [7/365](https://rellinrg.github.io/Day62)
+2023-01-07 -- [Sandbank](https://rellinrg.github.io/Day62)
 <br>
 2023-01-06 -- [6/365](https://rellinrg.github.io/Day59)
 <br>
