@@ -213,7 +213,7 @@ published: true
 <br>
 2023-01-18 -- [Babylon](https://rellinrg.github.io/Day76)
 <br>
-2023-01-17 -- [Negative](https://rellinrg.github.io/Day75)
+2023-01-18 -- [Negative](https://rellinrg.github.io/Day75)
 <br>
 2023-01-17 -- [Work Mode](https://rellinrg.github.io/Day74_2)
 <br>
