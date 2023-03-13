@@ -211,7 +211,7 @@ published: true
 <br>
 2023-01-20 -- [Sushi Express](https://rellinrg.github.io/Day77)
 <br>
-2023-01-18 -- [Babylon](https://rellinrg.github.io/Day76)
+2023-01-19 -- [Babylon](https://rellinrg.github.io/Day76)
 <br>
 2023-01-18 -- [Negative](https://rellinrg.github.io/Day75)
 <br>
