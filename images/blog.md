@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-12 -- [Jia Xiang Mala Tang](https://rellinrg.github.io/Day124/)
+<br>
 2023-03-11 -- [The neighborhood](https://rellinrg.github.io/Day123_2/)
 <br>
 2023-03-11 -- [75th](https://rellinrg.github.io/Day123/)
