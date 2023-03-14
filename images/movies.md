@@ -4,9 +4,6 @@ title: Films.Series.Shows
 permalink: /movies/
 published: true
 ---
-==========
-- Movies
-==========
 <br>
 <br>
 2023-03-07 -- [The Wandering Earth II](https://rellinrg.github.io/Day120/) .Shaw Nex.
