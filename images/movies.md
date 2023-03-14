@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Films.Series.Shows
-permalink: /Movies/
+permalink: /movies/
 published: true
 ---
 ==========
