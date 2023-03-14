@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageF
 title: Blog
 permalink: /blog/
 published: true
@@ -190,6 +190,8 @@ published: true
 2023-01-27 -- [Melai in SG day 2](https://rellinrg.github.io/Day84)
 <br>
 2023-01-26 -- [Melai in SG day 1](https://rellinrg.github.io/Day83)
+<br>
+2023-01-25 -- [Carousell](https://rellinrg.github.io/Day82_2)
 <br>
 2023-01-25 -- [Morning Thought](https://rellinrg.github.io/Day82)
 <br>
