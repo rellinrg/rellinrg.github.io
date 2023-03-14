@@ -15,7 +15,7 @@ published: true
 <br>
 2023-02-26 -- [LOVE AND OTHER DRUGS](https://rellinrg.github.io/Day112/) .Netflix Films.
 <br>
-2023-02-14 -- [Titanic (Re-release](https://rellinrg.github.io/Day101_4) .Shaw Nex.
+2023-02-14 -- [Titanic (Re-release)](https://rellinrg.github.io/Day101_4) .Shaw Nex.
 <br>
 2023-02-12 -- [Your Place or Mine](https://rellinrg.github.io/Day99) .Netflix Film.
 <br>
