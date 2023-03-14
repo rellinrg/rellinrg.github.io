@@ -1,22 +1,20 @@
 ---
 layout: page
-title: "Cycling Races"
+title: "Cycling Virtual Races and Cycle Rides"
 permalink: /cycling/
 published: true
 ---
 <br>
+2023-02-26 -- [ARTS in Motion - NAFA VIRTUAL CHALLENGE 2023](https://rellinrg.github.io/Day112_2/)
 <br>
-Octoberfest Virtual Ride
+2023-02-25 -- [20.82 KM ride🚴🏼‍♀️](https://rellinrg.github.io/Day111_2/)
 <br>
-September 17-23, 2022 
+2022-11-19 -- [Animal Day Virtual Ride 2022](https://rellinrg.github.io/Day49_2/)
 <br>
+2022-11-19 -- [October 21 Days Challenge](https://rellinrg.github.io/Day49/)
 <br>
+2022-10-26 -- [MOVE FOR HOPE](https://rellinrg.github.io/Day32/)
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1JWDL4jaYIrTuIsWY7Ykp5q1agRv4LKC5" alt="drawing" width="400"/>
-<br>
-<img src="https://drive.google.com/uc?export=view&id=1rJOXj09xEIPHVUBXqYvVmqT9i0zlA9qU" alt="drawing" width="400"/>
-<br>
+2022-10-04 -- [Octoberfest Virtual Ride](https://rellinrg.github.io/Day10/)
 <br>
 
----
-***
