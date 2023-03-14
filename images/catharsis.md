@@ -2,7 +2,7 @@
 layout: page
 title: My Catharsis
 permalink: /catharsis/
-published: true
+published: false
 ---
 <br>
 _14 Oct 2022 00:37:36_
