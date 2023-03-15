@@ -11,7 +11,7 @@ published: true
 <br>
 2023-02-18 -- [Beach Tennis Session 29](https://rellinrg.github.io/Day105_3/)
 <br>
-2023-xx-xx -- [Beach Tennis Session 28]
+2023-02-11 -- [Beach Tennis Session 28](https://rellinrg.github.io/Day98)
 <br>
 2023-01-07 -- [Beach Tennis Session 27](https://rellinrg.github.io/Day62_2)
 <br>
