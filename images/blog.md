@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-18 -- [20.58 KM 🚴‍♀️](https://rellinrg.github.io/Day128_2/)
+<br>
 2023-03-18 -- [Beach Tennis Session 32](https://rellinrg.github.io/Day128/)
 <br>
 2023-03-17 -- [Kway Chap for lunch](https://rellinrg.github.io/Day127_2/)
