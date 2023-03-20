@@ -5,6 +5,8 @@ permalink: /cycling/
 published: true
 ---
 <br>
+2023-03-18 -- [20.58 KM 🚴‍♀️](https://rellinrg.github.io/Day128_2/)
+<br>
 2023-02-26 -- [ARTS in Motion - NAFA VIRTUAL CHALLENGE 2023](https://rellinrg.github.io/Day112_2/)
 <br>
 2023-02-25 -- [20.82 KM ride🚴🏼‍♀️](https://rellinrg.github.io/Day111_2/)
