@@ -1,11 +1,11 @@
 ---
 layout: page
 title: All about food.Devour.Consume.Devour.Ingest
-permalink: /movies/
+permalink: /devour/
 published: true
 ---
 <br>
-2023-03-12 -- [Kway Chap for lunch](https://rellinrg.github.io/Day127_2/)
+2023-03-17 -- [Kway Chap for lunch](https://rellinrg.github.io/Day127_2/)
 <br>
 2023-03-12 -- [Jia Xiang Mala Tang](https://rellinrg.github.io/Day124/)
 <br>
