@@ -5,6 +5,10 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-17 -- [Kway Chap for lunch](https://rellinrg.github.io/Day127_2/)
+<br>
+2023-03-17 -- [Keep Moving Forward](https://rellinrg.github.io/Day127/)
+<br>
 2023-03-14 -- [Missing](https://rellinrg.github.io/Day126/)
 <br>
 2023-03-13 -- [Alone](https://rellinrg.github.io/Day125/)
