@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: https://ko-fi.com/rgniller
   twitter: callmerg1
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -39,7 +39,7 @@ google_analytics: G-30895XXBY4
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: www.jekyllnow.com
+url: https://ko-fi.com/rgniller
 
 # excerpt separator
 excerpt_separator: "<!--more-->"
