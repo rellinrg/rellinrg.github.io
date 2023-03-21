@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "health monitoring"
+title: "Нєαℓтн αи∂ Ωєℓℓиєѕѕ"
 permalink: /wellness/
 published: true
 ---
