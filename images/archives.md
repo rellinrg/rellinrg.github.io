@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Αя¢нινєѕ
 permalink: /archives/
 published: true
 ---
