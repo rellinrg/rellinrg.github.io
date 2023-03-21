@@ -27,4 +27,7 @@ published: true
 <br>
 <br>
 🤏🏻 [Add to carts](https://rellinrg.github.io/cart/)
+<br>
+<br>
+🤏🏻 [Minimalism](https://rellinrg.github.io/minimalism/)
 
