@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Golf Sessions"
-permalink: /golf/
+permalink: /golf1/
 published: true
 ---
 October 9, 2022
