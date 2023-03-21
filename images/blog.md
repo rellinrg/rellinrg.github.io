@@ -7,7 +7,7 @@ published: true
 <br>
 2023-03-20 -- [Singkamas](https://rellinrg.github.io/Day130/)
 <br>
-2023-03-19 -- [Sunday Sesh♀️](https://rellinrg.github.io/Day129/)
+2023-03-19 -- [Sunday Sesh](https://rellinrg.github.io/Day129/)
 <br>
 2023-03-18 -- [20.58 KM 🚴‍♀️](https://rellinrg.github.io/Day128_2/)
 <br>
