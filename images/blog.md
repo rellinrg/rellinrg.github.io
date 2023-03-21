@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily POsts
+title: ∂αιℓу ρσѕтѕ
 permalink: /blog/
 published: true
 ---
