@@ -26,9 +26,6 @@ published: true
 🤏🏻 [¢σαѕтℓιиєѕ](https://rellinrg.github.io/coastline/)
 <br>
 <br>
-🤏🏻 [Α∂∂ тσ ¢αятѕ](https://rellinrg.github.io/cart/)
-<br>
-<br>
 🤏🏻 [Мιиιмαℓιѕм](https://rellinrg.github.io/minimalism/)
 <br>
 <br>
@@ -36,9 +33,7 @@ published: true
 <br>
 <br>
 🤏🏻 [Тυиєѕ](https://rellinrg.github.io/tunes/)
-<br>
-<br>
-🤏🏻 [Нєαℓтн αи∂ Ωєℓℓиєѕѕ](https://rellinrg.github.io/wellness/)
+
 
 
 
