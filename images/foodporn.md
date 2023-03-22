@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Golf"
-permalink: /golf/
+permalink: /foodporns/
 published: true
 ---
 <br>
-2022-10-09 -- [Senibong Golf Course Session 3](https://rellinrg.github.io/Day15_3/)
+<iframe src="https://drive.google.com/file/d/1kNGsBPEqjRF-tSp_m8dmhONUkQVw8CLP/preview" width="270" height="340" allow="autoplay"></iframe>
