@@ -36,9 +36,7 @@ published: true
 <br>
 <br>
 🤏🏻 [Тυиєѕ](https://rellinrg.github.io/tunes/)
-<br>
-<br>
-🤏🏻 [Нєαℓтн αи∂ Ωєℓℓиєѕѕ](https://rellinrg.github.io/wellness/)
+
 
 
 
