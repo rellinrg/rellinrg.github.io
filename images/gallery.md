@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Αя¢нινєѕ
-permalink: /archives/
+title: Gallery
+permalink: /gallery/
 published: true
 ---
 <br>
