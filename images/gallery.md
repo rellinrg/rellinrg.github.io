@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Gαℓℓєяιєѕ
 permalink: /gallery/
 published: true
 ---
