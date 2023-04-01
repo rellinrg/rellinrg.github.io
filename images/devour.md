@@ -5,7 +5,7 @@ permalink: /devour/
 published: true
 ---
 <br>
-2023-03-31 -- [Kusuma's Natal Day](https://rellinrg.github.io/Day135_2/)
+2023-03-31 -- [Dessert at SOD Cafe](https://rellinrg.github.io/Day135_2/)
 <br>
 2023-03-31 -- [Coffe Crown](https://rellinrg.github.io/Day135/)
 <br>
