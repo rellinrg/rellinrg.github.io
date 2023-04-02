@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-03-31 -- [A trip to Marine Parade Poly](https://rellinrg.github.io/Day136/)
+<br>
 2023-03-31 -- [March End Review](https://rellinrg.github.io/Day135_4/)
 <br>
 2023-03-31 -- [New Project](https://rellinrg.github.io/Day135_3/)
