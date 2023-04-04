@@ -5,7 +5,9 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-03-31 -- [A trip to Marine Parade Poly](https://rellinrg.github.io/Day136/)
+2023-04-02 -- [Wellness challenge: Cultivate an attitude of gratitude everyday](https://rellinrg.github.io/Day137/)
+<br>
+2023-04-01 -- [A trip to Marine Parade Poly](https://rellinrg.github.io/Day136/)
 <br>
 2023-03-31 -- [March End Review](https://rellinrg.github.io/Day135_4/)
 <br>
