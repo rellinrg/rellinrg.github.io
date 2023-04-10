@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-04-06 -- [Learning electric guitar](https://rellinrg.github.io/Day139/)
+<br>
 2023-04-05 -- [Zodiac Challenge 2023: March Challenge 🐅](https://rellinrg.github.io/Day138/)
 <br>
 2023-04-02 -- [Wellness challenge: Cultivate an attitude of gratitude everyday](https://rellinrg.github.io/Day137/)
