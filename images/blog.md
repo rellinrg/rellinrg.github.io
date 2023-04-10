@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-04-09 -- [Easter Sunday](https://rellinrg.github.io/Day142/)
+<br>
 2023-04-08 -- [Beach Tennis Session 33](https://rellinrg.github.io/Day141_2/)
 <br>
 2023-04-08 -- [Black Saturday](https://rellinrg.github.io/Day141/)
