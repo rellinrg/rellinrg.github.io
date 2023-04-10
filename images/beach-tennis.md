@@ -5,7 +5,7 @@ permalink: /beach-tennis/
 published: true
 ---
 <br>
-2023-04-08 -- [Beach Tennis Session 33](https://rellinrg.github.io/Day141/)
+2023-04-08 -- [Beach Tennis Session 33](https://rellinrg.github.io/Day141_2/)
 <br>
 2023-03-18 -- [Beach Tennis Session 32](https://rellinrg.github.io/Day128/)
 <br>
