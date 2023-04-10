@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-04-07 -- [A little update on Cross-Stitching](https://rellinrg.github.io/Day140_2/)
+<br>
 2023-04-07 -- [Good Friday ☦️](https://rellinrg.github.io/Day140/)
 <br>
 2023-04-06 -- [Learning electric guitar](https://rellinrg.github.io/Day139/)
