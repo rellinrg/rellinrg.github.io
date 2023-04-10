@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-04-07 -- [Holy Friday ☦️](https://rellinrg.github.io/Day140/)
+2023-04-07 -- [Good Friday ☦️](https://rellinrg.github.io/Day140/)
 <br>
 2023-04-06 -- [Learning electric guitar](https://rellinrg.github.io/Day139/)
 <br>
