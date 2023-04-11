@@ -22,7 +22,7 @@ December 27 - 30 --- Johor Bahru, Malaysia | Batu Pahat | Pontian
 <br>
 November 29 - December 27 --- Singapore
 <br>
-November 24 - 28 --- Bali, Indonesia
+November 24 - 28 --- [Bali, Indonesia](https://rhearellin.com/travels/2022-November-24/)
 <br>
 November 14 - 24 --- Singapore
 <br>
