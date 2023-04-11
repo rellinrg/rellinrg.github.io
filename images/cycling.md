@@ -4,6 +4,7 @@ title: "Cycling Virtual Races and Cycle Rides"
 permalink: /cycling/
 published: true
 ---
+2023-04-08 -- [Zodiac Cycling Challenge 2023 - April . Milestone 1](https://rellinrg.github.io/Day141_3/)
 <br>
 March 1 - 31, 2023 -- [Zodiac Challenge 2023: March Challenge 🐅](https://rellinrg.github.io/Day138/)
 <br>
