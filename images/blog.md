@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-04-11 -- [Suzume](https://rellinrg.github.io/Day143/)
+<br>
 2023-04-09 -- [Easter Sunday](https://rellinrg.github.io/Day142/)
 <br>
 2023-04-08 -- [Zodiac Cycling Challenge 2023 - April . Milestone 1](https://rellinrg.github.io/Day141_3/)
