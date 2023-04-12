@@ -5,6 +5,8 @@ permalink: /movies/
 published: true
 ---
 <br>
+2023-04-11 -- [Suzume (J) (铃芽之旅)](https://rellinrg.github.io/Day143/).Ѕнαω Иєχ.
+<br>
 2023-03-21 -- [Shazam! Fury Of The Gods (沙赞! 众神之怒)](https://rellinrg.github.io/Day131_3/) .Ѕнαω Иєχ.
 <br>
 2023-03-14 -- [Missing](https://rellinrg.github.io/Day126/) .Ѕнαω Иєχ.
