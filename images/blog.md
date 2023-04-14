@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-04-13 -- [2023 vs Me Cycling Challenge (Novice)](https://rellinrg.github.io/Day145_2/)
+<br>
 2023-04-13 -- [Zodiac Cycling Challenge 2023](https://rellinrg.github.io/Day145/)
 <br>
 2023-04-11 -- [Suzume](https://rellinrg.github.io/Day143/)
