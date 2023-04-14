@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-04-13 -- [Life these days](https://rellinrg.github.io/Day146/)
+2023-04-14 -- [Life these days](https://rellinrg.github.io/Day146/)
 <br>
 2023-04-13 -- [2023 vs Me Cycling Challenge (Novice)](https://rellinrg.github.io/Day145_2/)
 <br>
