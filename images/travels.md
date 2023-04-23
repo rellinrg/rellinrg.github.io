@@ -6,7 +6,9 @@ published: true
 ---
 **2023**
 <br>
-January 17 - ATM --- 👉🏻 👉🏻 👉 in Singapore
+April 22 - 23 --- Johor Bahru, Malaysia
+<br>
+January 17 - April 22 --- Singapore
 <br>
 January 13 - 16 --- [Cebu, Philippines | Moalboal | Argao](https://rhearellin.com/travels/2023-January-13/)
 <br>
