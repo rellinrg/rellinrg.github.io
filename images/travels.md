@@ -6,6 +6,8 @@ published: true
 ---
 **2023**
 <br>
+April 23 - **Till now** --- Singapore
+<br>
 April 22 - 23 --- Johor Bahru, Malaysia
 <br>
 January 17 - April 22 --- Singapore
