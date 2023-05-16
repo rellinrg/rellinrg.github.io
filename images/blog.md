@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-05-08 -- [Canteen Softlaunch](https://rellinrg.github.io/Day153/)
+<br>
 2023-05-07 -- [Beach Tennis Session 35](https://rellinrg.github.io/Day152/)
 <br>
 2023-05-06 -- [anew](https://rellinrg.github.io/Day151/)
