@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 <br>
-2023-09-05 -- [Lunch at Mugul Mahal](https://rellinrg.github.io/Day156/)
+2023-11-05 -- [Lunch at Mugul Mahal](https://rellinrg.github.io/Day156/)
 <br>
 2023-05-26 -- [Lunch at Mugul Mahal](https://rellinrg.github.io/Day158/)
 <br>
