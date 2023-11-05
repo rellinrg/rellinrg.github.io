@@ -5,6 +5,8 @@ permalink: /blog/
 published: true
 ---
 <br>
+2023-05-26 -- [Lunch at Mugul Mahal](https://rellinrg.github.io/Day158/)
+<br>
 2023-05-16 -- [Finally](https://rellinrg.github.io/Day155/)
 <br>
 2023-05-13 -- [Beach Tennis Session 36](https://rellinrg.github.io/Day154/)
