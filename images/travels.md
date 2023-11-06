@@ -8,7 +8,7 @@ published: true
 <br>
 September 23 - **Till now** --- Singapore
 <br>
-September 23 --- PGS Tournament, Orchard Golf and Country Club, Johor Bahru Malaysia
+September 23 --- Orchard Golf and Country Club, Johor Bahru Malaysia
 <br>
 September 3 - 23 --- Singapore
 <br>
