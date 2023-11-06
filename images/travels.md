@@ -6,7 +6,23 @@ published: true
 ---
 **2023**
 <br>
-April 23 - **Till now** --- Singapore
+September 23 - **Till now** --- Singapore
+<br>
+September 23 --- PGS Tournament, Orchard Golf and Country Club, Johor Bahru Malaysia
+<br>
+September 3 - 23 --- Singapore
+<br>
+September 2 - 3 --- Batam, Indonesia
+<br>
+August 13 - September 2 --- Singapore
+<br>
+August 13 --- Daiman 18 Golf Club, Johor Bahru Malaysia
+<br>
+June 07 - August 13 --- Singapore
+<br>
+June 1 - 6 --- Cebu, Philippines
+<br>
+April 23 - June 1 --- Singapore
 <br>
 April 22 - 23 --- Johor Bahru, Malaysia
 <br>
