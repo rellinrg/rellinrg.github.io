@@ -8,7 +8,7 @@ published: true
 <br>
 September 23 - **Till now** --- Singapore
 <br>
-September 23 --- Orchard Golf and Country Club, Johor Bahru Malaysia
+September 23 --- Orchard Golf and Country Club, Johor Bahru Malaysia 🏌️‍♀️
 <br>
 September 3 - 23 --- Singapore
 <br>
@@ -16,7 +16,7 @@ September 2 - 3 --- Batam, Indonesia
 <br>
 August 13 - September 2 --- Singapore
 <br>
-August 13 --- Daiman 18 Golf Club, Johor Bahru Malaysia
+August 13 --- Daiman 18 Golf Club, Johor Bahru Malaysia 🏌️‍♀️
 <br>
 June 07 - August 13 --- Singapore
 <br>
@@ -54,15 +54,15 @@ October 21 - October 24 --- [Johor Bahru, Malaysia](https://rhearellin.com/trave
 <br>
 October 9 - 21 --- Singapore
 <br>
-October 9 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-October-9/)
+October 9 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-October-9/) 🏌️‍♀️
 <br>
 August 28 - October 9 --- Singapore
 <br>
-August 28 --- Senibong Golf Course, Malaysia
+August 28 --- Senibong Golf Course, Malaysia 🏌️‍♀️
 <br>
 August 14 - 28 --- Singapore
 <br>
-August 14 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-August-14/)
+August 14 --- [Senibong Golf Course, Malaysia](https://rhearellin.com/travels/2022-August-14/) 🏌️‍♀️
 <br>
 January 1 - August 14 --- Singapore
 <br>
